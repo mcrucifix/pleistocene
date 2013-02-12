@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'OtherMarineData', 'ODP552')
+currwd <- getwd()
+setwd(fpath)
+ODP552 <-read.delim("ODP552.txt",skip=1,header=FALSE,col.names=c("Depth.mbsf","Age.Ma","d18O.PDB ","d13C.PDB"),sep="")
+setwd(currwd)

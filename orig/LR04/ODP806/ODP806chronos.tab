@@ -1,0 +1,42 @@
+/* DATA DESCRIPTION:
+Citation:	Bickert, T et al. (1993): (Appendix B) Age control points for ODP Hole 130-806B on the Ontong Java Plateau, doi:10.1594/PANGAEA.696410,
+	In Supplement to: Bickert, Torsten; Berger, Wolfgang H; Burke, S; Schmidt, Heike; Wefer, Gerold (1993): Late Quaternary stable isotope record of benthic foraminifers: Site 805 and 806, Ontong Java Plateau, In: Berger, WH; Kroenke, LW; Mayer, LA, et al. (eds.), Proceedings of the Ocean Drilling Program, Scientific Results, College Station, TX (Ocean Drilling Program), 130, 411-420, doi:10.2973/odp.proc.sr.130.025.1993
+Project(s):	Ocean Drilling Program (ODP) (URI: http://odp.pangaea.de/)
+Coverage:	WEST: 159.3610 * EAST: 159.3610 * SOUTH: 0.3185 * NORTH: 0.3185
+	MINIMUM DEPTH, sediment: 0.0 m * MAXIMUM DEPTH, sediment: 13.6 m
+Event(s):	130-806B * LATITUDE: 0.3185 * LONGITUDE: 159.3610 * ELEVATION: -2519.9 m * DATE/TIME: 1990-02-18T21:00:00 * DATE/TIME 2: 1990-02-23T01:30:00 * RECOVERY: 666.40 m * PENETRATION: 743.10 m * CAMPAIGN: Leg130 (URI: doi:10.2973/odp.proc.ir.130.1991) * BASIS: Joides Resolution (URI: http://odp.pangaea.de/resolutn.html) * DEVICE: Drilling * COMMENT: 78 cores; 743.1 m cored; 0 m drilled; 89.7 % recovery
+Parameter(s):	DEPTH, sediment [m] (Depth) * Geocode
+	Age model [ka] (Age model) * PI: Bickert, Torsten (eMail: g05e@uni-bremen.de) * METHOD: Age model, SPECMAP chronology, Imbrie et al (1984, in Berger et al, Reidel Pub)
+Size:	30 data points
+*/
+Depth [m]	Age model [ka]
+0.00	0
+0.32	12
+0.50	19
+1.26	53
+1.42	65
+1.72	80
+2.20	99
+2.58	122
+2.73	135
+3.66	183
+3.92	194
+4.74	228
+5.00	238
+5.34	249
+5.80	269
+6.16	287
+6.34	299
+6.68	331
+6.92	341
+7.50	362
+8.36	405
+9.00	434
+9.76	471
+10.20	491
+10.74	513
+11.42	552
+12.24	574
+12.52	585
+13.32	617
+13.60	628

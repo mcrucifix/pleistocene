@@ -1,0 +1,204 @@
+Bickert, T et al. (2009): Stable isotopes and sedimentology of sediment core GeoB1032PANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Bickert, Torsten; Wefer, Gerold; Müller, Peter J (2009): Stable 
+      isotopes and sedimentology of sediment core GeoB1032, 
+      doi:10.1594/PANGAEA.58770
+      Reference(s):Bickert, Torsten; Wefer, Gerold (1996): Late Quaternary deep 
+      water circulation in the South Atlantic: Reconstruction from carbonate 
+      dissolution and benthic stable isotopes, In: Wefer, G; Berger, W H; 
+      Siedler, G & Webb, D (eds.), The South Atlantic: Present and Past 
+      Circulation. Springer-Verlag, Berlin, 103, 599-620
+      Bickert, Torsten (1992): Rekonstruktion der spätquartären 
+      Bodenwasserzirkulation im östlichen Südatlantik über stabile Isotope 
+      benthischer Foraminiferen, Berichte, Fachbereich Geowissenschaften, 
+      Universität Bremen, 27, 205 pp
+      Project(s):Geosciences, University of Bremen (GeoB)
+      South Atlantic in Late Quaternary: Reconstruction of Budget and Currents 
+      (SFB261)
+      Coverage:West: 6.0267 * East: 6.0367 * South: -22.9150 * North: -22.9133
+      Minimum DEPTH, sediment: 0.0 m * Maximum DEPTH, sediment: 5.2 m
+      Event(s):GeoB1032-2 * Latitude: -22.9133 * Longitude: 6.0267 * Elevation: 
+      -2490.0 m * Date/Time: 1988-03-04T00:00:00 * Penetration: 0.32 m * 
+      Location: Walvis Ridge * Campaign: M6/6 * Basis: Meteor (1986) * Device: 
+      Giant box corer * Comment: Foram.-schl., weiß, Pterop.
+      GeoB1032-3 * Latitude: -22.9150 * Longitude: 6.0367 * Elevation: -2505.0 m 
+      * Date/Time: 1988-03-04T00:00:00 * Penetration: 12.00 m * Location: Angola 
+      Basin * Campaign: M6/6 * Basis: Meteor (1986) * Device: Gravity corer 
+      (Kiel type) * Comment: Foram.-schlamm, sandig
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1Event labelEventMetadata
+            2DEPTH, sedimentDepthmGeocode
+            3Depth, compositeDepth cmcdBickert, TorstenIntercore correlation
+            4Age modelAge modelkaBickert, TorstenAge model, SPECMAP chronology, 
+            Imbrie et al (1984, in Berger et al, Reidel Pub)
+            5Calcium carbonateCaCO3%Müller, Peter JElement analyser CHN
+            6SandSand%Bickert, TorstenGrain size, sieving/settling tube
+            7Carbon, organic, totalTOC%Müller, Peter JElement analyser CHN, LECO
+            8Cibicidoides wuellerstorfi, d13CC. wuellerstorfi d13Cper mil 
+            PDBBickert, TorstenMass spectrometer Finnigan MAT 251
+            9Cibicidoides wuellerstorfi, d18OC. wuellerstorfi d18Oper mil 
+            PDBBickert, TorstenMass spectrometer Finnigan MAT 251
+            10Sedimentation rateSed ratecm/kaBickert, Torstencalculated
+            11Water content of wet massWater wm%Müller, Peter Jcalculated from 
+            weight/volume
+            12Density, dry bulkDBDg/ccmMüller, Peter Jcalculated from 
+            weight/volume
+
+      Size:902 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Event2
+      Depth [m]3
+      Depth c [mcd]4
+      Age model [ka]5
+      CaCO3 [%]6
+      Sand [%]7
+      TOC [%]8
+      C. wuellerstorfi d13C [per mil PDB]9
+      C. wuellerstorfi d18O [per mil PDB]10
+      Sed rate [cm/ka]11
+      Water wm [%]12
+      DBD [g/ccm]
+      GeoB1032-20.010.010.7597.850.150.150.902.231.3346.10.82
+      GeoB1032-20.040.043.0096.444.620.160.852.301.3343.90.85
+      GeoB1032-20.070.075.2596.241.440.120.962.301.3344.70.84
+      GeoB1032-20.100.106.4596.736.870.110.902.361.3344.50.84
+      GeoB1032-20.130.137.6595.036.050.100.792.381.3346.40.80
+      GeoB1032-20.160.168.8595.335.870.100.812.521.3345.00.83
+      GeoB1032-20.190.1910.0596.733.470.090.682.601.3344.00.85
+      GeoB1032-30.080.086.0098.032.670.120.822.252.50
+      GeoB1032-30.130.138.0097.827.180.100.972.302.50
+      GeoB1032-30.180.1810.0097.727.100.080.732.502.50
+      GeoB1032-30.230.2312.0096.229.140.080.393.371.67
+      GeoB1032-30.280.2815.0095.238.980.090.233.611.67
+      GeoB1032-30.330.3318.0094.138.710.08-0.034.141.50
+      GeoB1032-30.380.3821.3392.935.680.090.104.111.50
+      GeoB1032-30.430.4324.6793.835.040.10-0.103.741.50
+      GeoB1032-30.480.4828.0094.138.790.080.453.661.00
+      GeoB1032-30.530.5333.0094.737.250.090.273.691.00
+      GeoB1032-30.580.5838.0096.739.280.070.343.521.00
+      GeoB1032-30.630.6343.0095.840.120.080.393.371.00
+      GeoB1032-30.680.6848.0095.842.290.070.113.481.00
+      GeoB1032-30.730.7353.0094.537.560.080.273.510.83
+      GeoB1032-30.780.7859.0096.242.190.080.023.500.83
+      GeoB1032-30.830.8365.0093.738.210.100.113.601.33
+      GeoB1032-30.880.8868.7594.537.580.080.343.291.33
+      GeoB1032-30.930.9372.5096.137.030.090.103.221.33
+      GeoB1032-30.980.9876.2596.241.440.090.523.041.33
+      GeoB1032-31.031.0380.0095.246.160.110.743.052.14
+      GeoB1032-31.081.0882.3396.145.470.100.473.042.14
+      GeoB1032-31.131.1384.6794.948.880.090.502.982.14
+      GeoB1032-31.181.1887.0094.538.380.090.213.191.67
+      GeoB1032-31.231.2390.0097.145.720.090.302.871.67
+      GeoB1032-31.281.2893.0094.150.140.090.563.001.67
+      GeoB1032-31.331.3396.0094.436.490.080.533.001.67
+      GeoB1032-31.381.3899.0096.137.430.080.933.083.13
+      GeoB1032-31.431.43100.6093.939.560.090.542.813.13
+      GeoB1032-31.481.48102.2096.844.430.080.592.793.12
+      GeoB1032-31.531.53103.8094.043.790.090.282.833.13
+      GeoB1032-31.581.58105.4095.931.170.070.292.943.13
+      GeoB1032-31.631.63107.0095.537.730.070.343.321.67
+      GeoB1032-31.681.68110.0097.232.100.080.493.001.67
+      GeoB1032-31.731.73113.0095.129.770.080.702.491.67
+      GeoB1032-31.781.78116.0094.135.650.070.702.411.67
+      GeoB1032-31.831.83119.0098.226.650.070.562.131.67
+      GeoB1032-31.881.88122.0096.530.210.080.462.081.67
+      GeoB1032-31.931.93125.0094.333.790.090.362.781.67
+      GeoB1032-31.981.98128.0095.033.350.110.382.481.43
+      GeoB1032-32.032.03131.5092.545.990.090.084.161.43
+      GeoB1032-32.082.08135.0095.043.400.08-0.054.140.91
+      GeoB1032-32.132.13140.5091.546.380.07-0.053.890.91
+      GeoB1032-32.182.18146.0091.540.560.07-0.143.952.00
+      GeoB1032-32.232.23148.5091.837.050.07-0.133.902.00
+      GeoB1032-32.282.28151.0090.436.980.06-0.323.930.50
+      GeoB1032-32.332.33161.0092.746.830.070.033.810.50
+      GeoB1032-32.382.38171.0091.341.510.070.273.801.25
+      GeoB1032-32.432.43175.0094.639.100.060.113.601.25
+      GeoB1032-32.482.48179.0093.241.790.070.113.501.25
+      GeoB1032-32.532.53183.0094.139.360.07-0.043.403.33
+      GeoB1032-32.582.58184.5096.438.160.070.063.033.33
+      GeoB1032-32.632.63186.0093.634.230.060.203.081.25
+      GeoB1032-32.682.68190.0095.129.660.060.582.681.25
+      GeoB1032-32.732.73194.0095.827.780.060.712.520.91
+      GeoB1032-32.782.78199.5095.326.610.070.452.490.91
+      GeoB1032-32.832.83205.0094.625.330.060.702.830.45
+      GeoB1032-32.882.88216.0097.030.000.060.652.651.67
+      GeoB1032-32.932.93219.0091.225.040.060.053.171.67
+      GeoB1032-32.982.98222.0091.233.100.07-0.033.441.67
+      GeoB1032-33.033.03225.0092.529.840.060.013.341.67
+      GeoB1032-33.083.08228.0095.436.340.070.253.581.00
+      GeoB1032-33.133.13233.0094.735.130.060.233.161.00
+      GeoB1032-33.183.18238.0093.235.080.060.522.560.91
+      GeoB1032-33.233.23243.5097.326.880.050.283.070.91
+      GeoB1032-33.283.28249.0094.624.810.070.083.731.25
+      GeoB1032-33.333.33253.0092.525.740.06-0.163.521.25
+      GeoB1032-33.383.38257.0093.829.960.060.063.641.25
+      GeoB1032-33.433.43261.0094.931.820.060.093.861.25
+      GeoB1032-33.483.48265.0093.826.170.06-0.053.511.25
+      GeoB1032-33.533.53269.0092.827.230.060.133.761.39
+      GeoB1032-33.583.58272.6091.423.640.07-0.153.561.39
+      GeoB1032-33.633.63276.2087.223.180.060.173.291.39
+      GeoB1032-33.683.68279.8093.317.120.080.353.331.39
+      GeoB1032-33.733.73283.4096.820.370.060.423.051.39
+      GeoB1032-33.783.78287.0095.617.770.060.302.881.25
+      GeoB1032-33.833.83291.0096.218.660.050.063.001.25
+      GeoB1032-33.883.88295.0096.317.770.060.203.161.25
+      GeoB1032-33.933.93299.0095.617.450.070.113.532.73
+      GeoB1032-33.983.98300.8398.416.660.06-0.083.242.73
+      GeoB1032-34.034.03302.6796.418.180.060.533.342.73
+      GeoB1032-34.084.08304.5095.619.390.060.643.182.73
+      GeoB1032-34.134.13306.3396.318.420.060.563.042.73
+      GeoB1032-34.184.18308.1796.715.670.070.582.932.73
+      GeoB1032-34.234.23310.0096.218.020.060.452.751.19
+      GeoB1032-34.284.28314.2095.320.970.060.303.061.19
+      GeoB1032-34.334.33318.4096.418.990.070.463.091.19
+      GeoB1032-34.384.38322.6097.716.030.060.362.751.19
+      GeoB1032-34.434.43326.8095.518.040.060.582.471.19
+      GeoB1032-34.484.48331.0096.720.270.060.402.473.00
+      GeoB1032-34.534.53332.6796.625.190.06-0.203.423.00
+      GeoB1032-34.584.58334.3396.823.660.060.003.563.00
+      GeoB1032-34.634.63336.0097.422.760.070.172.633.00
+      GeoB1032-34.684.68337.6798.426.640.050.093.253.00
+      GeoB1032-34.734.73339.3396.122.740.06-0.033.773.00
+      GeoB1032-34.784.78341.0093.822.330.06-0.143.971.67
+      GeoB1032-34.834.83344.0096.216.920.07-0.303.921.67
+      GeoB1032-34.884.88347.0095.821.250.070.063.851.67
+      GeoB1032-34.934.93350.0095.818.460.060.013.731.67
+      GeoB1032-34.984.98353.0096.219.570.070.123.691.67
+      GeoB1032-35.035.03356.0094.623.770.07-0.263.791.67
+      GeoB1032-35.085.08359.0095.015.880.06-0.223.481.67
+      GeoB1032-35.135.13362.0095.514.620.060.063.681.67
+      GeoB1032-35.185.18365.0096.912.260.07-0.083.721.67
+      GeoB1032-35.235.23368.0093.611.250.070.103.651.67
+
+Contact

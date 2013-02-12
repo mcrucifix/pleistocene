@@ -1,0 +1,6 @@
+for i in `ls Geo* ` ; do
+cd $i
+add_header.sh
+/Users/crucifix/Projects/ITOP/Workpackages/2009_Boreux_DataBase_in_R/LR04
+done
+

@@ -1,0 +1,78 @@
+Tian, J et al. (2002): (Table 2) Ages of planktonic foraminifera in the Plio-Pleistocene sectrion of ODP Site 184-1143 in the South China SeaPANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Tian, J et al. (2002): (Table 2) Ages of planktonic foraminifera 
+      in the Plio-Pleistocene sectrion of ODP Site 184-1143 in the South China 
+      Sea, doi:10.1594/PANGAEA.700903,
+      In Supplement to: Tian, Jun; Wang, Pinxian; Cheng, Xinrong; Li, Qianyu 
+      (2002): Astronomically tuned Plio- Pleistocene benthic d18O record from 
+      South-China Sea and Atlantic-Pacific comparison, Earth and Planetary 
+      Science Letters, 203(3-4), 1015-1029, doi:10.1016/S0012-821X(02)00923-8
+      Project(s):Ocean Drilling Program (ODP)
+      Coverage:West: 113.2851 * East: 113.2851 * South: 9.3619 * North: 9.3619
+      Minimum DEPTH, sediment: 8.1 m * Maximum DEPTH, sediment: 176.3 m
+      Event(s):184-1143 * Latitude: 9.3619 * Longitude: 113.2851 * Elevation: 
+      -2772.3 m * Date/Time: 1999-03-03T00:00:00 * Date/Time 2: 
+      1999-03-10T00:00:00 * Recovery: 1101.80 m * Penetration: 1158.20 m * 
+      Campaign: Leg184 * Basis: Joides Resolution * Device: Composite Core * 
+      Comment: 126 cores; 1158.2 m cored; 0 m drilled; 95.1% recovery
+      Comment:Depth is composite depth (mcd)
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2Ageprofile Datum DescriptionAgeprof dat desTian, JunFO = first 
+            occurrence, LO = last occurrence, LCO = last common occurrrence
+            3Age modelAge modelkaTian, Jun
+            4CommentCommentTian, JunConfidence
+
+      Size:42 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      Ageprof dat des3
+      Age model [ka]4
+      Comment
+      8.07LO pink Globigerinoides ruber124high
+      25.03FO pink Globigerinoides ruber407high
+      83.40LO Globigerinoides fistulosus1729high
+      96.09FO Globorotalia truncatulinoides2031high
+      134.71LO Globorotalia multicamerata3038moderate
+      134.81LO Dentoglobigerina altispira3041high
+      138.01LO Sphaeroidinellopsis seminulina3138high
+      144.39FO Globorotalia tosaensis3348high
+      158.35FO Sphaeroidinella dehiscens3800high
+      161.05LO Globorotalia plesiotumida3823moderate
+      161.58LO Globorotalia margaritae3833low
+      166.45LCO Globorotalia margaritae4047high
+      166.55Pulleniatina left to right coiling4051high
+      176.32LO Globigerina nepenthes4586low
+
+Contact

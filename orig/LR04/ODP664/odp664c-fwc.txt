@@ -1,0 +1,102 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# odp664c-fwc.txt
+# Complete Data
+# File Created: 18-Jan-2005
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Maureen Raymo
+# Core/Site:      ODP664C
+# Latitude:       0.06.00N	( 0.1)
+# Longitude:      23.14.00W	( -23.23333)
+# Water Depth(m): 3806
+#
+# Publications:
+#   Raymo, M.E., D.W. Oppo, and W. Curry. 1997. The mid-Pleistocene transition: a
+#     deep sea carbon isotopic perspective, Paleoceanography 12:546-559.
+#   Raymo, M.E. 1997. The timing of major climate terminations. Paleoceanography
+#     12:577-585.
+#------------------
+#
+# Description & Notes:
+#   Global change in deep sea carbon isotopes during the mid-Pleistocene transition.
+#   
+#
+# Variables:
+#             depth         Depth (cm)
+#             d13Cc.wuell   delta C13 PDB (Cibicidoides wuellerstorfi)
+#             d18Oc.wuell   delta O18 PDB (Cibicidoides wuellerstorfi)
+#             d13Ccibid     delta C13 PDB (Cibicidoides sp.)
+#             d18Ocibid     delta O18 PDB (Cibicidoides sp.)
+#
+# CORE: ODP664C
+depth         d13Cc.wuell   d18Oc.wuell   d13Ccibid     d18Ocibid     notes
+ 11            0.76          2.67         -999          -999          1-1  Depth ID:  11  ODP Depth:  11        
+ 11            0.96          2.96         -999          -999          1-1  Depth ID:  11  ODP Depth:  11        
+ 29            0.75          3.1          -999          -999          1-1  Depth ID:  29  ODP Depth:  29        
+ 41            0.8           3.36         -999          -999          1-1  Depth ID:  41  ODP Depth:  41        
+ 50           -0.01          4.24         -999          -999          1-1  Depth ID:  50  ODP Depth:  50        
+ 50           -0.02          4.28         -999          -999          1-1  Depth ID:  50  ODP Depth:  50        
+ 59           -0.12          4.19         -999          -999          1-1  Depth ID:  59  ODP Depth:  59        
+ 71           -0.14          4.17         -999          -999          1-1  Depth ID:  71  ODP Depth:  71        
+ 89           -0.32          4.69         -999          -999          1-1  Depth ID:  89  ODP Depth:  89        
+ 89           -0.28          3.93         -999          -999          1-1  Depth ID:  89  ODP Depth:  89        
+ 101           0.56          3.73         -999          -999          1-1  Depth ID: 101  ODP Depth: 101        
+ 101          -0.25          4.06         -999          -999          1-1  Depth ID: 101  ODP Depth: 101        
+ 110          -0.08          3.93         -999          -999          1-1  Depth ID: 110  ODP Depth: 110        
+ 110           0.1           4.14         -999          -999          1-1  Depth ID: 110  ODP Depth: 110        
+ 119          -0.07          3.84         -999          -999          1-1  Depth ID: 119  ODP Depth: 119        
+ 1071          0.01          3.44         -999          -999          2-4  Depth ID: 104  ODP Depth: 974        
+ 1082         -0.27          3.5          -999          -999          2-4  Depth ID: 115  ODP Depth: 985        
+ 1092          0.12          3.44         -999          -999          2-4  Depth ID: 125  ODP Depth: 995        
+ 1102          0.13          3.48         -999          -999          2-4  Depth ID: 135  ODP Depth:1005        
+ 1112          0.72          3.22         -999          -999          2-4  Depth ID: 145  ODP Depth:1015        
+ 1122          0.51          3.19         -999          -999          2-5  Depth ID:   5  ODP Depth:1025        
+ 1122          0.54          3.11         -999          -999          2-5  Depth ID:   5  ODP Depth:1025        
+ 1132          0.47          3.28         -999          -999          2-5  Depth ID:  15  ODP Depth:1035        
+ 1142          0.33          2.96         -999          -999          2-5  Depth ID:  25  ODP Depth:1045        
+ 1152          0.58          2.8          -999          -999          2-5  Depth ID:  35  ODP Depth:1055        
+ 1162          0.36          2.77         -999          -999          2-5  Depth ID:  45  ODP Depth:1065        
+ 1172          0.36          2.96         -999          -999          2-5  Depth ID:  55  ODP Depth:1075        
+ 2018          0.37          3.81         -999          -999          3-3  Depth ID: 123  ODP Depth:1793        
+ 2025          0.15          3.71         -999          -999          3-3  Depth ID: 130  ODP Depth:1800        
+ 2035         -0.01          3.87         -999          -999          3-3  Depth ID: 140  ODP Depth:1810        
+ 2043          0.12          3.79         -999          -999          3-3  Depth ID: 148  ODP Depth:1818        
+ 2055          0.2           3.56         -999          -999          3-4  Depth ID:  10  ODP Depth:1830        
+ 2065         -0.02          3.41         -999          -999          3-4  Depth ID:  20  ODP Depth:1840        
+ 2075          0.3           3.21         -999          -999          3-4  Depth ID:  30  ODP Depth:1850        
+ 2085          0.5           3.2          -999          -999          3-4  Depth ID:  40  ODP Depth:1860        
+ 2095          0.61          3.15         -999          -999          3-4  Depth ID:  50  ODP Depth:1870        
+ 2105          0.38          3.17         -999          -999          3-4  Depth ID:  60  ODP Depth:1880        
+ 2965         -0.03          3.66         -999          -999          4-3  Depth ID:  60  ODP Depth:2680        
+ 2975         -0.06          3.65         -999          -999          4-3  Depth ID:  70  ODP Depth:2690        
+ 2984          0.16          3.51         -999          -999          4-3  Depth ID:  79  ODP Depth:2699        
+ 2995          0.17          3.33         -999          -999          4-3  Depth ID:  90  ODP Depth:2710        
+ 3005          0.55          3.12         -999          -999          4-3  Depth ID: 100  ODP Depth:2720        
+ 3017          0.61          2.91         -999          -999          4-3  Depth ID: 112  ODP Depth:2732        
+ 3025          0.32          3.29         -999          -999          4-3  Depth ID: 120  ODP Depth:2740        
+ 3035          0.37          2.91         -999          -999          4-3  Depth ID: 130  ODP Depth:2750        
+ 3045          0.62          3.28         -999          -999          4-3  Depth ID: 140  ODP Depth:2760        
+ 3053          0.58          2.97         -999          -999          4-3  Depth ID: 148  ODP Depth:2768        
+ 3065          0.63          3.1          -999          -999          4-4  Depth ID:  10  ODP Depth:2780        
+ 3075          0.33          3.16         -999          -999          4-4  Depth ID:  20  ODP Depth:2790        
+ 3085          0.24          2.98         -999          -999          4-4  Depth ID:  30  ODP Depth:2800        
+ 3095          0.55          2.89         -999          -999          4-4  Depth ID:  40  ODP Depth:2810        
+ 3105          0.15          2.88         -999          -999          4-4  Depth ID:  50  ODP Depth:2820        
+ 3115          0.14          2.88         -999          -999          4-4  Depth ID:  60  ODP Depth:2830        
+ 3968          0.73          2.78         -999          -999          5-3  Depth ID: 140  ODP Depth:3710        
+ 3976          0.86          2.6          -999          -999          5-3  Depth ID: 148  ODP Depth:3718        
+ 3987          0.87          2.43         -999          -999          5-4  Depth ID:   9  ODP Depth:3729        
+ 3997          0.91          2.55         -999          -999          5-4  Depth ID:  19  ODP Depth:3739        
+ 4007          0.93          2.64         -999          -999          5-4  Depth ID:  29  ODP Depth:3749        
+ 4017          0.67          2.99         -999          -999          5-4  Depth ID:  39  ODP Depth:3759        
+ 4027          0.97          3            -999          -999          5-4  Depth ID:  49  ODP Depth:3769        
+ 4037          0.64          3.11         -999          -999          5-4  Depth ID:  59  ODP Depth:3779        
+ 4047          0.31          3.17         -999          -999          5-4  Depth ID:  69  ODP Depth:3789        
+ 4057          0.08          3.3          -999          -999          5-4  Depth ID:  79  ODP Depth:3799        
+ 4067         -999          -999          -0.55          3.8          5-4  Depth ID:  89  ODP Depth:3809        
+ 4077         -0.32          3.45         -999          -999          5-4  Depth ID:  99  ODP Depth:3819        

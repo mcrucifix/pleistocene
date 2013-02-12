@@ -1,0 +1,114 @@
+Li, Q (2009): Nannofossil datums of ODP Site 184-1148 (Table 2)PANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Li, Q (2009): Nannofossil datums of ODP Site 184-1148 (Table 2), 
+      doi:10.1594/PANGAEA.724234,
+      In: Li, Qianyu (2009): Selected age-diagnostic datums of ODP Site 
+      184-1148, doi:10.1594/PANGAEA.724457
+      Reference(s):Li, Qianyu; Wang, Pinxian; Zhao, Quanhong; Shao, Lei; Zhong, 
+      Guangfa; Tian, Jun; Cheng, Xinrong; Jian, Zhimin; Su, Xin (2006): A 33 Ma 
+      lithostratigraphic record of tectonic and paleoceanographic evolution of 
+      the South China Sea, Marine Geology, 230, 217-235, 
+      doi:10.1016/j.margeo.2006.05.006
+      Project(s):Ocean Drilling Program (ODP)
+      Coverage:West: 116.5656 * East: 116.5656 * South: 18.8362 * North: 18.8362
+      Minimum DEPTH, sediment: 13.0 m * Maximum DEPTH, sediment: 730.3 m
+      Event(s):184-1148 * Latitude: 18.8362 * Longitude: 116.5656 * Elevation: 
+      -3294.5 m * Date/Time: 1999-03-30T00:00:00 * Date/Time 2: 
+      1999-04-10T00:00:00 * Recovery: 996.50 m * Penetration: 1557.20 m * 
+      Campaign: Leg184 * Basis: Joides Resolution * Device: Composite Core * 
+      Comment: 133 cores; 1204.6 m cored; 352.6 m drilled; 82.7% recovery
+      Comment:Selected age-diagnostic datums from Site 1148, including 
+      planktonic foraminifer datums (Wang et al., 2000; Li et al., 2004), 
+      nannofossil datums (Su et al., 2004), isotopic events (Zhao et al., 2001), 
+      and Brunhes/Matuyama boundary geomagnetic event (Wang et al., 2000), with 
+      ages adjusted to the time scale of Gradstein et al. (2004)
+      Depth, sediment= meter composite depth
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2Ageprofile Datum DescriptionAgeprof dat desLi, QianyuFO=first 
+            occurrence, LO=last occurrence
+            3Age modelAge modelkaLi, Qianyusee reference(s)
+
+      Size:90 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      Ageprof dat des3
+      Age model [ka]
+      13.05FO Emiliania huxleyi Acme90
+      34.93LO Pseudoemiliania lacunosa440
+      59.75LO Reticulofenestra asanoi910
+      78.20FO Reticulofenestra asanoi1140
+      102.52LO Calcidiscus macintyrei1610
+      122.33LO Discoaster brouweri1930
+      136.60LO Discoaster pentaradiatus2390
+      169.67LO Reticulofenestra pseudoumbilicus3700
+      175.11LO Amaurolithus spp.4800
+      177.77LO Ceratolithus acutus5040
+      187.37FO Ceratolithus rugosus5230
+      190.37LO Triquetrorhabdulus rugosus5280
+      190.37FO Ceratolithus acutus5350
+      193.31LO Discoaster quinqueramus5580
+      198.57LO Nicklithus amplificus5980
+      211.27FO Nicklithus amplificus6910
+      219.37FO Amaurolithus primus7360
+      242.61FO Discoaster berggrenii8290
+      242.61FO Discoaster quinqueramus8290
+      253.37FO Discoaster pentaradiatus8550
+      256.37LO Discoaster hamatus9400
+      261.81LO Catinaster calyculus9670
+      267.47LO Catinaster coalithus9690
+      275.57FO Discoaster hamatus10380
+      279.21FO Catinaster calyculus10410
+      281.01FO Catinaster coalithus10890
+      286.67LO Discoaster kugleri11580
+      293.27FO Discoaster kugleri11860
+      302.87FO Triquetrorhabdulus rugosus13200
+      302.87LO Cyclicargolithus floridanus13330
+      308.81LO Sphenolithus heteromorphus13530
+      331.87LO Helicopontosphaera ampliaperta14910
+      370.17FO Sphenolithus heteromorphus17710
+      371.57LO Sphenolithus belemnos17950
+      390.97FO Sphenolithus belemnos19030
+      454.41FO Discoaster druggii23050
+      458.57LO Sphenolithus capricornutus23110
+      458.57LO Sphenolithus delphix23110
+      461.57LO Reticulofenestra bisectus23200
+      461.57LO Zygrhablithus bijugatus23800
+      461.57LO Sphenolithus ciperoensis25200
+      476.10LO Sphenolithus distentus27300
+      618.58FO Sphenolithus ciperoensis29900
+      673.41FO Sphenolithus distentus31800
+      730.33LO Reticulofenestra umbilicus/Reticulofenestra hillae32500
+
+Contact

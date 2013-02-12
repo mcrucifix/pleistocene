@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'LR04', 'ODP983')
+currwd <- getwd()
+setwd(fpath)
+ODP983 <-read.delim("ODP983.tab",skip=17,header=FALSE,col.names=c("Depth.m","Age.ka","Sandparticlesabove63microm.pc","Cwuellerstorfid13C.permilPDB",".Cwuellerstorfid18O.permilPDB"),sep="")
+setwd(currwd)

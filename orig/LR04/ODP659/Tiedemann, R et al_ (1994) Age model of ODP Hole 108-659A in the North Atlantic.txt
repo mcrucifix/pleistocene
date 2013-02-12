@@ -1,0 +1,290 @@
+Tiedemann, R et al. (1994): Age model of ODP Hole 108-659A in the North AtlanticPANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Tiedemann, R et al. (1994): Age model of ODP Hole 108-659A in the 
+      North Atlantic, doi:10.1594/PANGAEA.52516,
+      In Supplement to: Tiedemann, Ralf; Sarnthein, Michael; Shackleton, 
+      Nicholas J (1994): Astronomic timescale for the Pliocene Atlantic d18O and 
+      dust flux records of Ocean Drilling Program site 659, Paleoceanography, 
+      9(4), 619-638, doi:10.1029/94PA00208
+      Project(s):Paleoceanology, Leibnitz Institute for Marine Research 
+      (GEOMARPal)
+      Ocean Drilling Program (ODP)
+      Coverage:West: -21.0262 * East: -21.0262 * South: 18.0772 * North: 18.0772
+      Date/Time Start: 1986-03-09T09:30:00 * Date/Time End: 1986-03-11T05:30:00
+      Minimum DEPTH, sediment: 0.0 m * Maximum DEPTH, sediment: 149.2 m
+      Event(s):108-659A * Latitude: 18.0772 * Longitude: -21.0262 * Elevation: 
+      -3082.0 m * Date/Time: 1986-03-09T09:30:00 * Date/Time 2: 
+      1986-03-11T05:30:00 * Recovery: 174.90 m * Penetration: 273.80 m * 
+      Location: North Atlantic * Campaign: Leg108 * Basis: Joides Resolution * 
+      Device: Drilling * Comment: 29 cores; 273.8 m cored; 0 m drilled; 63.9 % 
+      recovery
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2Depth, compositeDepth cmcdTiedemann, RalfIntercore 
+            correlationBetween-hole correlations are based on magnetic 
+            susceptibility data (Bloemendahl et al., 1988). Original depth 
+            values have been corrected for voids when occurring within sediment 
+            cores (length of sediment core equals total length of sediment core 
+            minus length of voids).
+            3Age modelAge modelkaTiedemann, RalfAge model, Shackleton et al. 
+            (1990, Roy Soc Edinburg, Earth Science 81:251-261)
+
+      Size:442 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      Depth c [mcd]3
+      Age model [ka]
+      0.000.000.00
+      0.550.559.80
+      1.051.0518.30
+      1.591.5929.50
+      2.222.2254.84
+      2.462.4665.22
+      2.802.8079.00
+      2.942.9488.00
+      3.283.28103.80
+      4.034.03122.19
+      4.414.41135.34
+      5.185.18153.00
+      5.695.69171.00
+      5.865.86183.37
+      6.266.26194.00
+      6.626.62214.00
+      7.037.03224.60
+      7.577.57241.19
+      7.867.86253.43
+      8.288.28267.48
+      8.538.53273.42
+      9.039.03287.00
+      9.369.36298.00
+      10.0010.00312.00
+      10.1810.18320.00
+      10.4610.46331.00
+      10.9910.99342.50
+      12.4912.49368.00
+      13.2413.24405.00
+      14.1314.13431.90
+      15.4315.43471.00
+      17.2817.28513.00
+      17.6617.66526.00
+      18.9918.99574.00
+      19.3619.36585.00
+      19.5119.51596.00
+      19.8119.81605.70
+      20.1920.19617.00
+      20.9420.94632.00
+      21.5321.53674.00
+      22.5222.52694.00
+      23.0323.03715.00
+      23.4623.46736.00
+      23.8623.86755.20
+      24.8324.83784.00
+      25.3325.33800.00
+      25.6725.67822.00
+      26.4626.46843.00
+      26.7926.79860.00
+      28.3928.39916.00
+      29.2629.26953.00
+      29.9629.96976.00
+      30.6930.69996.00
+      31.0031.001005.00
+      31.7431.741026.00
+      33.2233.221068.00
+      34.0734.071111.00
+      34.3634.361145.00
+      35.0435.041163.00
+      36.5336.531211.00
+      37.2937.291231.00
+      37.6137.611248.00
+      38.3538.351275.00
+      38.7838.781291.00
+      39.1839.181336.00
+      39.8539.851355.00
+      40.3640.361371.70
+      41.2341.231398.00
+      41.9941.991430.00
+      42.9742.971448.00
+      43.3643.361459.00
+      43.6943.691473.00
+      44.2344.231485.00
+      44.8644.861499.00
+      45.3545.351513.00
+      45.6445.641532.00
+      46.5446.541588.00
+      46.9246.921615.00
+      47.2647.261627.00
+      47.5347.531640.00
+      47.7747.771652.00
+      48.1948.191669.00
+      48.4348.431687.00
+      49.2949.291709.00
+      49.7649.761728.00
+      50.2750.271743.00
+      50.7050.701755.00
+      51.1351.131770.00
+      52.1352.131799.00
+      52.6352.631821.00
+      53.1253.121843.00
+      53.9053.901864.00
+      54.2354.231882.00
+      54.5354.531894.00
+      55.2955.291915.00
+      55.9055.901936.00
+      56.6856.681958.00
+      58.0958.092012.00
+      59.0959.092042.00
+      59.7059.702068.00
+      60.2460.242086.00
+      60.6860.682107.00
+      61.3561.352129.00
+      62.1962.192151.00
+      62.5762.572176.00
+      63.7263.722201.00
+      64.3564.352222.00
+      65.2265.222245.00
+      66.4966.492293.00
+      67.2567.252316.00
+      68.0868.082336.00
+      68.6268.622359.00
+      69.6569.652384.00
+      70.1070.102411.00
+      70.5170.512425.00
+      71.2971.292446.00
+      72.8072.802490.00
+      73.1073.102506.00
+      73.7073.702528.00
+      74.4774.472549.00
+      75.7075.702580.00
+      75.8375.832592.00
+      75.8975.892625.00
+      76.8576.852650.00
+      78.7578.752695.00
+      79.4279.422718.00
+      79.8079.802741.00
+      80.7580.752766.00
+      81.2781.272786.00
+      82.0282.022823.00
+      82.7782.772844.00
+      83.3983.392864.00
+      84.1084.102892.00
+      84.8584.852915.00
+      85.5985.592937.00
+      86.0686.062959.00
+      86.6286.622981.00
+      87.3187.313007.00
+      87.9987.993030.00
+      88.7988.793052.00
+      89.6789.673074.00
+      90.1390.133096.00
+      90.9790.973123.00
+      91.6391.633146.00
+      92.2792.273167.00
+      92.9392.933188.00
+      94.1994.193241.00
+      94.6394.633262.00
+      95.2795.273279.00
+      95.7695.763291.30
+      96.8196.813314.50
+      97.4797.473338.00
+      98.2998.293359.00
+      98.8098.803391.00
+      99.1899.183411.00
+      100.09100.093453.00
+      101.57101.573526.00
+      102.18102.183548.00
+      102.66102.663567.00
+      103.09103.093587.00
+      103.42103.423604.00
+      104.05104.053623.00
+      104.58104.583643.00
+      104.94104.943661.00
+      105.48105.483680.00
+      106.02106.023698.00
+      106.54106.543720.00
+      106.98106.983740.00
+      107.48107.483764.00
+      107.95107.953792.00
+      108.24108.243813.00
+      108.68108.683835.00
+      109.38109.383855.00
+      110.03110.033884.00
+      110.81110.813906.00
+      111.18111.183929.00
+      111.92111.923950.00
+      112.80112.803970.00
+      113.19113.194004.00
+      113.73113.734023.00
+      114.19114.194046.00
+      115.62115.624100.00
+      116.13116.134120.00
+      116.91116.914141.00
+      118.11118.114169.00
+      118.76118.764193.00
+      119.60119.604215.00
+      120.61120.614235.00
+      121.76121.764258.00
+      122.76122.764285.00
+      123.33123.334308.00
+      123.73123.734329.00
+      124.47124.474350.00
+      125.87125.874384.00
+      126.48126.484401.00
+      127.06127.064425.00
+      127.85127.854461.00
+      128.63128.634480.00
+      129.19129.194502.00
+      129.56129.564524.00
+      129.82129.824550.00
+      130.42130.424573.00
+      131.06131.064595.00
+      131.65131.654618.00
+      132.24132.244641.00
+      132.57132.574665.00
+      133.44133.444686.00
+      134.20134.204710.00
+      135.40135.404758.00
+      136.80136.804799.00
+      137.88137.884835.00
+      139.28139.284878.00
+      139.86139.864909.00
+      140.29140.294928.00
+      140.71140.714951.00
+      141.12141.124973.00
+      142.07142.074997.00
+      143.89143.895043.00
+      145.37145.375087.00
+      147.37147.375159.00
+      149.23149.235220.00
+
+Contact

@@ -1,0 +1,157 @@
+Kawagata, S et al. (2006): (Appendix A) Benthic foraminifera accumulation rates of ODP Site 117-722B in the northern Indian OceanPANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Kawagata, S et al. (2006): (Appendix A) Benthic foraminifera 
+      accumulation rates of ODP Site 117-722B in the northern Indian Ocean, 
+      doi:10.1594/PANGAEA.684683,
+      In Supplement to: Kawagata, Shungo; Hayward, Bruce W; Gupta, Anil K 
+      (2006): Benthic foraminiferal extinctions linked to late 
+      Pliocene–Pleistocene deep-sea circulation changes in the northern Indian 
+      Ocean (ODP Sites 722 and 758), Marine Micropaleontology, 58(3), 219-242, 
+      doi:10.1016/j.marmicro.2005.11.003
+      Project(s):Ocean Drilling Program (ODP)
+      Coverage:West: 59.7953 * East: 59.7953 * South: 16.6218 * North: 16.6218
+      Minimum Age: 25.450 ka BP * Maximum Age: 1614.660 ka BP
+      Minimum DEPTH, sediment: 1.4 m * Maximum DEPTH, sediment: 54.7 m
+      Event(s):117-722B * Latitude: 16.6218 * Longitude: 59.7953 * Elevation: 
+      -2033.0 m * Date/Time: 1987-09-08T12:00:00 * Date/Time 2: 
+      1987-09-13T10:15:00 * Recovery: 385.80 m * Penetration: 565.60 m * 
+      Location: North Indian * Campaign: Leg117 * Basis: Joides Resolution * 
+      Device: Drilling * Comment: 59 cores; 565.1 m cored; 0 m drilled; 68.3 % 
+      recovery
+      Comment:Age model of Clemens et al. (1996), depth is composite depth (mcd)
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2AGEAgeka BPGeocode
+            3Sample code/labelLabelKawagata, ShungoODP sample designation
+            4Sedimentation rateSed ratecm/kaKawagata, Shungo
+            5Globigerinoides sacculifer, d18OG. sacculifer d18Oper mil 
+            PDBKawagata, Shungointerpolated after Clemens et al. (1996)
+            6Calcium carbonateCaCO3%Kawagata, Shungointerpolated after Murray 
+            and Prell (1991)
+            7Carbon, organic, totalTOC%Kawagata, Shungointerpolated after Murray 
+            and Prell (1991)
+            8SandSand%Kawagata, Shungo
+            9Fragmentation index, planktic foraminiferaFragm plank 
+            foram%Kawagata, ShungoCounting >150 µm fraction
+            10Accumulation rate, benthic foraminifera by numberAcc rate benth 
+            forams#/cm2/kaKawagata, ShungoCounting >63 µm fractionExtinction 
+            Group including all species in the families Stilostomellidae and 
+            Pleurostomellidae, parts of Nodosariidae (including subfamily 
+            Frondicularinae, Proxifrons)
+            11Accumulation rate, benthic foraminifera by numberAcc rate benth 
+            forams#/cm2/kaKawagata, ShungoCounting >63 µm fractionSurvivor 
+            Group: all other elongated, uniserial nodosariids
+            12Accumulation rate, benthic foraminifera by numberAcc rate benth 
+            forams#/cm2/kaKawagata, ShungoCounting >63 µm fractionof total 
+            species
+            13Accumulation rate, benthic foraminifera by numberAcc rate benth 
+            forams#/cm2/kaKawagata, ShungoCounting >63 µm 
+            fractionLow-oxygen/high-ortganic carbon input Group: elongated 
+            species e.g. Bolivina spp., Bulimina spp., Francesita advena, 
+            Fursenkoina complabata, Globobulimina spp., Uvigerina spp.
+            14Accumulation rate, benthic foraminifera by numberAcc rate benth 
+            forams#/cm2/kaKawagata, ShungoCounting >63 µm fractionOpportunist 
+            Group: Pseudoparrella exigua, Alabaminella weddellensis
+            15Foraminifera, benthic, otherForam bent other%Kawagata, 
+            ShungoCounting >63 µm fractionExtinction Group
+
+      Size:583 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      Age [ka BP]3
+      Label4
+      Sed rate [cm/ka]5
+      G. sacculifer d18O [per mil PDB]6
+      CaCO3 [%]7
+      TOC [%]8
+      Sand [%]9
+      Fragm plank foram [%]10
+      Acc rate benth forams [#/cm2/ka]
+      (Extinction Group including al...)11
+      Acc rate benth forams [#/cm2/ka]
+      (Survivor Group: all other elo...)12
+      Acc rate benth forams [#/cm2/ka]
+      (of total species)13
+      Acc rate benth forams [#/cm2/ka]
+      (Low-oxygen/high-ortganic carb...)14
+      Acc rate benth forams [#/cm2/ka]
+      (Opportunist Group: Pseudoparr...)15
+      Foram bent other [%]
+      1.4125.45117-722B-1H-1,140-1425.6340.52064.1501.11016.873.030.000.232156.96497.22262.030.00
+      4.63118.10117-722B-1H-4,12-142.260-1.12569.2110.6606.618.150.000.381413.7159.26209.590.00
+      8.71208.55117-722B-2H-3,20-222.548-1.13073.0100.5408.736.540.161.181803.3074.47160.890.01
+      10.02240.02117-722B-2H-4,0-45.455-0.52469.5480.5627.544.991.021.702239.23338.06653.000.04
+      11.74275.24117-722B-2H-5,23-254.5270.27759.5510.5596.387.730.002.212006.09109.47537.850.00
+      13.31325.53117-722B-2H-6,30-323.654-1.15079.9400.6705.9520.950.311.242632.92184.80593.330.01
+      14.11345.37117-722B-2H-6,110-1124.1540.40071.2400.8007.497.510.182.511312.42125.18137.730.01
+      14.90362.09117-722B-2H-CC,0-45.500-0.27672.0000.78212.203.383.792.412239.32183.22352.670.16
+      17.81446.65117-722B-3H-2,110-1124.3000.46066.5600.9057.165.662.371.181065.83101.23189.430.21
+      19.01476.95117-722B-3H-3,80-822.2680.12071.8251.1705.453.260.830.001694.93216.54186.560.05
+      19.72505.03117-722B-3H-4,0-43.636-0.24074.4430.6286.238.360.001.671431.36125.48198.990.00
+      20.84553.49117-722B-3H-4,113-1152.050-0.27871.4470.99312.4321.341.080.981271.4765.36200.680.08
+      21.83596.12117-722B-3H-5,62-643.565-1.35375.1060.7588.0724.880.382.042657.2181.54425.360.01
+      23.03629.45117-722B-3H-6,30-325.3000.50464.9301.49012.943.152.104.192823.51304.74775.360.07
+      23.81644.17117-722B-3H-6,110-1125.3000.01068.1951.25014.323.610.450.914080.0576.261853.680.01
+      25.03675.18117-722B-3H-CC,0-62.553-0.18464.8591.0038.046.210.662.96668.1624.5581.070.10
+      26.06716.32117-722B-4H-1,110-1122.4670.11558.0500.7057.831.230.303.35354.4728.8148.790.08
+      27.16742.45117-722B-4H-2,70-722.5850.14064.4900.66012.501.237.834.13793.2318.49153.100.98
+      27.98774.17117-722B-4H-3,2-42.585-0.49866.9260.7618.0311.603.071.153218.02174.231079.920.09
+      29.47815.25117-722B-4H-4,0-44.000-0.52269.7021.2735.5614.160.352.654182.92172.56994.730.01
+      30.36842.68117-722B-4H-4,90-922.367-0.93077.4001.2108.6428.891.152.074393.57183.191473.810.03
+      31.16870.00117-722B-4H-5,20-223.9000.17064.4700.6108.371.607.682.00693.4959.46117.991.03
+      31.56880.18117-722B-4H-5,60-625.5000.22055.4401.9808.933.731.813.012249.08133.63847.510.08
+      32.16891.09117-722B-4H-5,120-1225.5000.04055.9600.6606.491.364.755.65843.30153.0257.860.49
+      32.96905.93117-722B-4H-6,50-525.083-0.47069.4701.8408.8617.365.712.047934.22106.063080.520.07
+      33.98931.06117-722B-4H-7,2-43.576-0.17561.2360.7124.986.216.601.991346.70119.03402.000.47
+      34.70950.50117-722B-4H-CC,0-64.286-0.54659.2550.3994.9429.335.942.312972.73130.48844.920.20
+      35.16961.21117-722B-5H-1,60-624.786-0.08063.4706.013.619.814.51995.9736.07101.850.98
+      35.56969.57117-722B-5H-1,100-1024.786-0.79065.7101.0808.1540.4810.702.815707.56242.901212.230.18
+      35.96978.44117-722B-5H-1,140-1424.067-0.64072.8700.9806.4711.7014.451.852061.8245.03602.250.69
+      36.36988.28117-722B-5H-2,30-324.067-0.38066.0401.1303.0428.956.182.592435.41175.72420.780.24
+      36.76998.12117-722B-5H-2,70-724.067-1.15080.5601.33011.6632.8938.441.688923.001365.612391.270.38
+      37.361011.67117-722B-5H-2,130-1324.800-0.41070.9906.4912.6624.653.224258.13224.18705.630.57
+      38.161036.13117-722B-5H-3,60-622.480-1.08067.7101.4907.647.5111.323.812522.26616.24516.670.40
+      39.071059.04117-722B-5H-4,0-42.538-0.80560.1840.7435.6368.5552.652.252840.6194.28361.811.82
+      40.581116.73117-722B-5H-5,2-43.429-0.22762.1551.33315.562.5628.781.421305.11178.73333.532.02
+      40.911132.63117-722B-5H-5,35-371.548-0.13259.3050.9639.7431.5161.601.282443.21160.51291.682.41
+      44.201234.94117-722B-5H-CC,0-65.529-0.81273.6411.0058.7620.63214.357.705660.55457.07823.393.66
+      45.191256.77117-722B-6H-1,18-202.964-0.33760.3781.03710.3813.89137.513.483423.96219.35940.043.89
+      47.211313.45117-722B-6H-2,70-726.200-0.86074.9800.86010.9419.60459.5817.208505.05690.89994.045.31
+      48.431353.80117-722B-6H-3,42-442.000-1.39476.6920.55310.2428.95144.682.742515.01150.96666.915.62
+      49.811400.39117-722B-6H-4,30-322.600-0.90071.0401.23015.6122.63472.4619.062533.21567.35477.7615.99
+      51.611469.15117-722B-6H-5,60-623.250-0.54050.2201.0805.6135.17205.457.386302.15156.733256.663.23
+      53.211538.64117-722B-6H-6,70-722.200-0.01053.9001.2205.3234.48177.234.482337.10221.90283.087.31
+      54.701614.66117-722B-6H-CC,0-62.316-0.38659.7481.2084.9333.94107.511.601924.8645.52267.375.49
+
+Contact

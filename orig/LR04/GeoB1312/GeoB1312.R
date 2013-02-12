@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'LR04', 'GeoB1312')
+currwd <- getwd()
+setwd(fpath)
+GeoB1312 <-read.delim("GeoB1312.txt",skip=1,header=FALSE,col.names=c("Corelabel","Depth","Compdepth","Age.ka","Cwuellerstorfid13C","Cwuellerstorfid18O"),sep="")
+setwd(currwd)

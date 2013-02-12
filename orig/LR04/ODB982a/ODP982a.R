@@ -1,0 +1,1 @@
+read.delim("ODP982a.txt",skip=1,header=FALSE,col.names=c("Hole","Core","Sect","Interv","MCD","Age.ka","Cib18O","Cib13C","Bull18O","Bull13C","CaCO3.pc","IRD.pc"),sep="")

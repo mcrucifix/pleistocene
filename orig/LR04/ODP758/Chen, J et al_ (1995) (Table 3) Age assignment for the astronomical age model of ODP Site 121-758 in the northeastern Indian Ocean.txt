@@ -1,0 +1,286 @@
+Chen, J et al. (1995): (Table 3) Age assignment for the astronomical age model of ODP Site 121-758 in the northeastern Indian OceanPANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Chen, J et al. (1995): (Table 3) Age assignment for the 
+      astronomical age model of ODP Site 121-758 in the northeastern Indian 
+      Ocean, doi:10.1594/PANGAEA.413055,
+      In Supplement to: Chen, Jiajie; Farrell, John W; Murray, David; Prell, 
+      Warren L (1995): Timescale and paleoceanographic implications of a 3.6 
+      m.y. oxygen isotope record from the northeast Indian Ocean (Ocean Drilling 
+      Program Site 758), Paleoceanography, 10(1), 21-48, doi:10.1029/94PA02290
+      Project(s):Ocean Drilling Program (ODP)
+      Coverage:West: 90.3612 * East: 90.3612 * South: 5.3841 * North: 5.3841
+      Minimum DEPTH, sediment: 0.0 m * Maximum DEPTH, sediment: 53.3 m
+      Event(s):121-758 * Latitude: 5.3841 * Longitude: 90.3612 * Elevation: 
+      -2935.0 m * Date/Time: 1988-06-15T00:00:00 * Date/Time 2: 
+      1988-06-15T00:00:00 * Recovery: 561.90 m * Penetration: 782.20 m * 
+      Location: North Indian * Campaign: Leg121 * Basis: Joides Resolution * 
+      Device: Composite Core * Comment: 84 cores; 782.2 m cored; 0 m drilled; 
+      71.8% recovery
+      Comment:Depth is composite depth. Age assignment is achieved by comparing 
+      the delta18O record with result of ice volume simulation using the model 
+      of Imbrie and Imbrie (1980 doi:10.1126/science.207.4434.943)
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2Age modelAge modelkaChen, JiajieAge model, stable isotope 
+            stratigraphy
+
+      Size:223 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      Age model [ka]
+      0.010.0
+      0.4116.0
+      1.2149.0
+      1.3162.0
+      2.1180.0
+      2.2186.0
+      2.31100.0
+      2.41108.0
+      2.71122.0
+      3.01132.0
+      3.51168.0
+      3.61180.0
+      3.81192.0
+      4.11214.0
+      4.41224.0
+      4.61238.0
+      4.91246.0
+      5.11258.0
+      5.21267.0
+      5.42286.7
+      5.62300.0
+      5.92306.7
+      6.32328.0
+      6.62340.0
+      7.02362.0
+      7.32368.0
+      7.43384.0
+      7.53406.0
+      7.63429.0
+      7.83458.0
+      8.03468.0
+      8.33482.0
+      9.13510.0
+      9.23526.0
+      9.33540.0
+      9.43572.0
+      9.63584.0
+      9.73595.0
+      9.83602.0
+      10.03616.0
+      10.33626.0
+      10.63666.0
+      10.83674.0
+      10.93688.0
+      11.43698.0
+      11.53708.0
+      11.63718.0
+      11.73732.0
+      11.83754.0
+      12.13782.0
+      12.43794.0
+      12.53821.0
+      12.63828.0
+      12.93840.0
+      13.03846.0
+      13.33860.0
+      13.63870.0
+      13.73880.0
+      14.13904.0
+      14.23918.0
+      14.53952.0
+      14.93962.0
+      15.13976.0
+      15.23982.0
+      15.53996.0
+      15.931006.0
+      16.031025.0
+      16.231034.0
+      16.331048.0
+      16.431054.0
+      16.731068.0
+      17.031078.0
+      17.211110.0
+      17.311127.0
+      17.821162.0
+      18.121202.0
+      18.321210.0
+      18.721238.0
+      19.121248.0
+      19.521280.0
+      19.821290.0
+      20.121322.0
+      20.321340.0
+      20.621354.0
+      20.821364.0
+      21.121376.0
+      21.321382.0
+      21.421398.0
+      21.721413.0
+      22.321448.0
+      22.421458.0
+      22.921489.0
+      23.021500.0
+      23.521524.0
+      23.921532.0
+      24.221563.0
+      24.421573.0
+      25.121602.0
+      25.321628.0
+      25.421642.0
+      26.021668.0
+      26.421693.0
+      26.721702.0
+      26.921715.0
+      27.021722.0
+      27.231734.0
+      27.431744.0
+      27.951758.0
+      28.031765.0
+      28.131778.0
+      28.331788.0
+      28.531808.0
+      28.631816.0
+      28.731828.0
+      28.831836.0
+      29.031850.0
+      29.231880.0
+      29.431899.0
+      29.541910.0
+      29.941924.0
+      30.041930.0
+      30.141942.0
+      30.341953.0
+      30.541982.0
+      30.641992.0
+      30.942020.0
+      31.242030.0
+      31.442072.0
+      31.542078.0
+      31.942094.0
+      32.042102.0
+      32.342138.0
+      32.742148.0
+      32.842158.0
+      32.942163.0
+      33.142186.0
+      33.242196.0
+      33.442228.0
+      33.542240.0
+      33.842254.0
+      33.942259.0
+      34.142273.0
+      34.442284.0
+      34.642302.0
+      34.942312.0
+      35.042322.0
+      35.142330.0
+      35.242344.0
+      35.442357.0
+      35.742387.0
+      35.842404.0
+      36.142433.0
+      36.542443.0
+      36.742470.0
+      37.142484.0
+      37.342516.0
+      37.542528.0
+      38.042544.0
+      38.142552.0
+      38.342558.0
+      38.642598.0
+      38.842632.0
+      39.252644.0
+      39.552678.0
+      39.852690.0
+      40.052704.0
+      40.262712.0
+      40.662750.0
+      40.862762.0
+      41.262794.0
+      41.362806.0
+      41.462831.0
+      41.562843.0
+      41.762872.0
+      41.962884.0
+      42.162922.0
+      42.362931.0
+      42.662946.0
+      42.862954.0
+      42.962966.0
+      43.062974.0
+      43.162991.0
+      43.663000.0
+      43.863015.0
+      44.163023.0
+      44.363038.0
+      44.563047.0
+      44.863060.0
+      44.963068.0
+      45.163081.0
+      45.363091.0
+      45.563109.0
+      45.863115.0
+      46.163131.0
+      46.363140.0
+      46.763154.0
+      46.963161.0
+      47.063173.0
+      48.063247.0
+      48.263257.0
+      48.363286.0
+      48.663292.0
+      48.763305.0
+      48.963311.0
+      49.473325.0
+      49.573333.0
+      49.773345.0
+      50.173353.0
+      50.473369.0
+      50.773383.0
+      51.073418.0
+      51.173427.0
+      51.373440.0
+      51.463447.0
+      51.573460.0
+      51.673470.0
+      51.973493.0
+      52.183519.0
+      52.483534.0
+      52.783543.0
+      52.883554.0
+      53.083561.0
+      53.283575.0
+
+Contact

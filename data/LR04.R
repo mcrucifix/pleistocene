@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'LR04', 'LR04')
+currwd <- getwd()
+setwd(fpath)
+LR04 <-read.delim("total.tab",skip=58,header=FALSE,col.names=c("Age.ka","d18O","d18Ostdev"),sep="")
+setwd(currwd)

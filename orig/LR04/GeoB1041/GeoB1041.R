@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'LR04', 'GeoB1041')
+currwd <- getwd()
+setwd(fpath)
+GeoB1041 <-read.delim("GeoB1041.tab",skip=23,header=FALSE,col.names=c("Event","Depth.m","Depthc.mcd","Age.ka","Sand.pc","Cwuellerstorfid13C.permilPDB","Cwuellerstorfid18O.permilPDB","Sedrate.cmperka","waterwm.pc","DBD.gperccm"),sep="")
+setwd(currwd)

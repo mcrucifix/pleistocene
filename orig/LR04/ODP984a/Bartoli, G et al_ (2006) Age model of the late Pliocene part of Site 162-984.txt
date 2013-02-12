@@ -1,0 +1,138 @@
+Bartoli, G et al. (2006): Age model of the late Pliocene part of Site 162-984PANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Bartoli, G et al. (2006): Age model of the late Pliocene part of 
+      Site 162-984, doi:10.1594/PANGAEA.441745,
+      In Supplement to: Bartoli, Gretta; Sarnthein, Michael; Weinelt, Mara 
+      (2006): Late Pliocene millennial-scale climate variability in the northern 
+      North Atlantic prior to and after the onset of Northern Hemisphere 
+      glaciation, Paleoceanography, 21, PA4205, doi:10.1029/2005PA001185
+      Project(s):Institute for Geosciences, Christian Albrechts University, Kiel 
+      (GIK/IfG)
+      Ocean Drilling Program (ODP)
+      Impact of Gateways on Ocean Circulation, Climate, and Evolution 
+      (OceanGateways)
+      Coverage:West: -24.0824 * East: -24.0824 * South: 61.4253 * North: 61.4253
+      Date/Time Start: 1995-07-24T00:00:00 * Date/Time End: 1995-07-29T00:00:00
+      Minimum DEPTH, sediment: 345.0 m * Maximum DEPTH, sediment: 445.6 m
+      Event(s):162-984 * Latitude: 61.4253 * Longitude: -24.0824 * Elevation: 
+      -1648.5 m * Date/Time: 1995-07-24T00:00:00 * Date/Time 2: 
+      1995-07-29T00:00:00 * Recovery: 1049.60 m * Penetration: 1240.90 m * 
+      Campaign: Leg162 * Basis: Joides Resolution * Device: Composite Core * 
+      Comment: 115 cores; 1083.1 m cored; 0 m drilled; 96.9% recovery
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2Age modelAge modelkaBartoli, Gretta
+
+      Size:76 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      Age model [ka]
+      344.992498
+      345.592500
+      347.012508
+      349.212513
+      349.912518
+      350.412525
+      352.512530
+      352.912540
+      353.212548
+      353.312565
+      353.912573
+      357.012585
+      361.462608
+      362.912613
+      363.712615
+      365.212620
+      368.712630
+      369.512645
+      375.212663
+      375.512670
+      375.812675
+      376.312688
+      378.112693
+      378.912695
+      379.112700
+      379.412703
+      380.812705
+      384.412715
+      387.112723
+      392.712738
+      393.612745
+      394.312748
+      396.312760
+      396.612765
+      397.312770
+      397.872775
+      399.512783
+      399.912788
+      400.012790
+      400.712795
+      401.712798
+      402.112803
+      402.312805
+      402.412810
+      403.712815
+      404.212818
+      404.512825
+      406.612840
+      407.012848
+      407.482855
+      410.512865
+      411.012870
+      411.212875
+      411.912878
+      415.712898
+      416.512905
+      418.412915
+      419.712918
+      421.612928
+      422.012933
+      422.912938
+      424.312950
+      424.712960
+      425.312968
+      427.012975
+      429.912980
+      432.412985
+      434.613000
+      435.613005
+      437.113020
+      437.913025
+      438.913030
+      440.713035
+      441.313040
+      444.213045
+      445.613050
+
+Contact

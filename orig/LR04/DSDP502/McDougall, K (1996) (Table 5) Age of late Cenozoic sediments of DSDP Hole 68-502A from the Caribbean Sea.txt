@@ -1,0 +1,132 @@
+McDougall, K (1996): (Table 5) Age of late Cenozoic sediments of DSDP Hole 68-502A from the Caribbean SeaPANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:McDougall, K (1996): (Table 5) Age of late Cenozoic sediments of 
+      DSDP Hole 68-502A from the Caribbean Sea, doi:10.1594/PANGAEA.682252,
+      In Supplement to: McDougall, Kristin (1996): Benthic foraminiferal 
+      response to the emergence of the Isthmus of Panama and coincident 
+      paleoceanographic changes, Marine Micropaleontology, 28(2), 133-169, 
+      doi:10.1016/0377-8398(95)00081-X
+      Project(s):Deep Sea Drilling Project (DSDP)
+      Coverage:West: -79.3790 * East: -79.3790 * South: 11.4910 * North: 11.4910
+      Minimum DEPTH, sediment: 0.7 m * Maximum DEPTH, sediment: 213.6 m
+      Event(s):68-502A * Latitude: 11.4910 * Longitude: -79.3790 * Elevation: 
+      -3051.0 m * Date/Time: 1979-08-16T00:00:00 * Recovery: 178.60 m * 
+      Penetration: 214.80 m * Location: Caribbean Sea/RIDGE * Campaign: Leg68 * 
+      Basis: Glomar Challenger * Device: Drilling * Comment: 62 cores; 195.1 m 
+      cored; 19.7 m drilled; 91.6 % recovery
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2Sample code/labelLabelMcDougall, KristinODP sample designation
+            3Age modelAge modelkaMcDougall, Kristinbased on planktic 
+            foraminiferal zonation by Zenker (1986), Zenker et al. (1987) and 
+            Keller et al. (1989)
+
+      Size:142 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      Label3
+      Age model [ka]
+      0.7268-502A-1-1470
+      2.6268-502A-2-1570
+      4.3768-502A-2-2620
+      5.3768-502A-2-3640
+      8.2868-502A-3-1720
+      8.3868-502A-3-2730
+      11.4268-502A-4-1830
+      17.2868-502A-5-2970
+      20.2368-502A-6-11070
+      27.6268-502A-7-31270
+      29.3568-502A-8-11360
+      30.3768-502A-8-21400
+      31.1968-502A-8-31430
+      32.8668-502A-9-11480
+      38.1768-502A-10-11640
+      39.3068-502A-10-21670
+      40.8368-502A-10-31730
+      46.3868-502A-12-11770
+      48.2668-502A-12-21950
+      49.2668-502A-12-31970
+      50.3868-502A-13-12020
+      64.1468-502A-16-12450
+      68.5468-502A-17-12570
+      76.7068-502A-18-CC2830
+      77.3468-502A-19-12850
+      81.7468-502A-20-13000
+      86.4368-502A-21-13140
+      90.5468-502A-22-13270
+      94.9368-502A-23-13430
+      99.3468-502A-24-13560
+      104.0068-502A-25-13700
+      108.1468-502A-26-13830
+      112.5468-502A-27-13960
+      116.9468-502A-28-14130
+      119.6368-502A-29-14200
+      123.5468-502A-30-14330
+      129.1868-502A-32-14470
+      131.9468-502A-33-14600
+      134.9268-502A-34-14700
+      138.0268-502A-35-14790
+      141.5268-502A-36-14920
+      144.4668-502A-37-15000
+      146.4468-502A-39-15120
+      147.9468-502A-40-15220
+      153.8468-502A-41-15300
+      154.1468-502A-38-15060
+      156.6868-502A-42-15400
+      158.9568-502A-43-15470
+      162.0268-502A-44-15570
+      164.4468-502A-45-15630
+      166.9268-502A-46-15730
+      168.9468-502A-47-15770
+      171.9468-502A-48-15870
+      175.9468-502A-50-16000
+      179.0268-502A-51-16100
+      181.4468-502A-52-16170
+      183.4468-502A-53-16230
+      185.4068-502A-54-16270
+      187.9468-502A-55-16390
+      190.0268-502A-56-16450
+      191.9068-502A-57-16520
+      194.0268-502A-58-16570
+      195.4268-502A-59-16630
+      197.8968-502A-60-16700
+      200.2268-502A-61-16770
+      201.4968-502A-62-16800
+      204.0268-502A-63-16900
+      207.9468-502A-65-17000
+      210.0068-502A-66-17090
+      211.7868-502A-67-17150
+      213.5868-502A-68-17200
+
+Contact

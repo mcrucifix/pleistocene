@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'Bintanja')
+currwd <- getwd()
+setwd(fpath)
+bintanja05 <- read.delim("bintanja2005.txt",skip=101,header=T,sep="",na.strings="")
+setwd(currwd)

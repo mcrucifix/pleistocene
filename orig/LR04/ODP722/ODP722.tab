@@ -1,0 +1,72 @@
+/* DATA DESCRIPTION:
+Citation:	Kawagata, S et al. (2006): (Appendix A) Benthic foraminifera accumulation rates of ODP Site 117-722B in the northern Indian Ocean, doi:10.1594/PANGAEA.684683,
+	In Supplement to: Kawagata, Shungo; Hayward, Bruce W; Gupta, Anil K (2006): Benthic foraminiferal extinctions linked to late Pliocene–Pleistocene deep-sea circulation changes in the northern Indian Ocean (ODP Sites 722 and 758), Marine Micropaleontology, 58(3), 219-242, doi:10.1016/j.marmicro.2005.11.003
+Project(s):	Ocean Drilling Program (ODP) (URI: http://odp.pangaea.de/)
+Coverage:	WEST: 59.7953 * EAST: 59.7953 * SOUTH: 16.6218 * NORTH: 16.6218
+	MINIMUM AGE: 25.450 ka BP * MAXIMUM AGE: 1614.660 ka BP
+	MINIMUM DEPTH, sediment: 1.4 m * MAXIMUM DEPTH, sediment: 54.7 m
+Event(s):	117-722B * LATITUDE: 16.6218 * LONGITUDE: 59.7953 * ELEVATION: -2033.0 m * DATE/TIME: 1987-09-08T12:00:00 * DATE/TIME 2: 1987-09-13T10:15:00 * RECOVERY: 385.80 m * PENETRATION: 565.60 m * LOCATION: North Indian * CAMPAIGN: Leg117 (URI: doi:10.2973/odp.proc.ir.117.1989) * BASIS: Joides Resolution (URI: http://odp.pangaea.de/resolutn.html) * DEVICE: Drilling * COMMENT: 59 cores; 565.1 m cored; 0 m drilled; 68.3 % recovery
+Comment:	Age model of Clemens et al. (1996), depth is composite depth (mcd)
+Parameter(s):	DEPTH, sediment [m] (Depth) * Geocode
+	AGE [ka BP] (Age) * Geocode
+	Sample code/label (Label) * PI: Kawagata, Shungo * METHOD: ODP sample designation (URI: hdl:10013/epic.27914.d001)
+	Sedimentation rate [cm/ka] (Sed rate) * PI: Kawagata, Shungo
+	Globigerinoides sacculifer, d18O [per mil PDB] (G. sacculifer d18O) * PI: Kawagata, Shungo * COMMENT: interpolated after Clemens et al. (1996)
+	Calcium carbonate [%] (CaCO3) * PI: Kawagata, Shungo * COMMENT: interpolated after Murray and Prell (1991)
+	Carbon, organic, total [%] (TOC) * PI: Kawagata, Shungo * COMMENT: interpolated after Murray and Prell (1991)
+	Sand [%] (Sand) * PI: Kawagata, Shungo
+	Fragmentation index, planktic foraminifera [%] (Fragm plank foram) * PI: Kawagata, Shungo * METHOD: Counting >150 µm fraction
+	Accumulation rate, benthic foraminifera by number [#/cm**2/ka] (Acc rate benth forams) * PI: Kawagata, Shungo * METHOD: Counting >63 µm fraction * COMMENT: Extinction Group including all species in the families Stilostomellidae and Pleurostomellidae, parts of Nodosariidae (including subfamily Frondicularinae, Proxifrons)
+	Accumulation rate, benthic foraminifera by number [#/cm**2/ka] (Acc rate benth forams) * PI: Kawagata, Shungo * METHOD: Counting >63 µm fraction * COMMENT: Survivor Group: all other elongated, uniserial nodosariids
+	Accumulation rate, benthic foraminifera by number [#/cm**2/ka] (Acc rate benth forams) * PI: Kawagata, Shungo * METHOD: Counting >63 µm fraction * COMMENT: of total species
+	Accumulation rate, benthic foraminifera by number [#/cm**2/ka] (Acc rate benth forams) * PI: Kawagata, Shungo * METHOD: Counting >63 µm fraction * COMMENT: Low-oxygen/high-ortganic carbon input Group: elongated species e.g. Bolivina spp., Bulimina spp., Francesita advena, Fursenkoina complabata, Globobulimina spp., Uvigerina spp.
+	Accumulation rate, benthic foraminifera by number [#/cm**2/ka] (Acc rate benth forams) * PI: Kawagata, Shungo * METHOD: Counting >63 µm fraction * COMMENT: Opportunist Group: Pseudoparrella exigua, Alabaminella weddellensis
+	Foraminifera, benthic, other [%] (Foram bent other) * PI: Kawagata, Shungo * METHOD: Counting >63 µm fraction * COMMENT: Extinction Group
+Size:	583 data points
+*/
+Depth [m]	Age [ka BP]	Label	Sed rate [cm/ka]	G. sacculifer d18O [per mil PDB]	CaCO3 [%]	TOC [%]	Sand [%]	Fragm plank foram [%]	Acc rate benth forams [#/cm**2/ka] (Extinction Group including al...)	Acc rate benth forams [#/cm**2/ka] (Survivor Group: all other elo...)	Acc rate benth forams [#/cm**2/ka] (of total species)	Acc rate benth forams [#/cm**2/ka] (Low-oxygen/high-ortganic carb...)	Acc rate benth forams [#/cm**2/ka] (Opportunist Group: Pseudoparr...)	Foram bent other [%]
+1.41	25.45	117-722B-1H-1,140-142	5.634	0.520	64.150	1.110	16.87	3.03	0.00	0.23	2156.96	497.22	262.03	0.00
+4.63	118.10	117-722B-1H-4,12-14	2.260	-1.125	69.211	0.660	6.61	8.15	0.00	0.38	1413.71	59.26	209.59	0.00
+8.71	208.55	117-722B-2H-3,20-22	2.548	-1.130	73.010	0.540	8.73	6.54	0.16	1.18	1803.30	74.47	160.89	0.01
+10.02	240.02	117-722B-2H-4,0-4	5.455	-0.524	69.548	0.562	7.54	4.99	1.02	1.70	2239.23	338.06	653.00	0.04
+11.74	275.24	117-722B-2H-5,23-25	4.527	0.277	59.551	0.559	6.38	7.73	0.00	2.21	2006.09	109.47	537.85	0.00
+13.31	325.53	117-722B-2H-6,30-32	3.654	-1.150	79.940	0.670	5.95	20.95	0.31	1.24	2632.92	184.80	593.33	0.01
+14.11	345.37	117-722B-2H-6,110-112	4.154	0.400	71.240	0.800	7.49	7.51	0.18	2.51	1312.42	125.18	137.73	0.01
+14.90	362.09	117-722B-2H-CC,0-4	5.500	-0.276	72.000	0.782	12.20	3.38	3.79	2.41	2239.32	183.22	352.67	0.16
+17.81	446.65	117-722B-3H-2,110-112	4.300	0.460	66.560	0.905	7.16	5.66	2.37	1.18	1065.83	101.23	189.43	0.21
+19.01	476.95	117-722B-3H-3,80-82	2.268	0.120	71.825	1.170	5.45	3.26	0.83	0.00	1694.93	216.54	186.56	0.05
+19.72	505.03	117-722B-3H-4,0-4	3.636	-0.240	74.443	0.628	6.23	8.36	0.00	1.67	1431.36	125.48	198.99	0.00
+20.84	553.49	117-722B-3H-4,113-115	2.050	-0.278	71.447	0.993	12.43	21.34	1.08	0.98	1271.47	65.36	200.68	0.08
+21.83	596.12	117-722B-3H-5,62-64	3.565	-1.353	75.106	0.758	8.07	24.88	0.38	2.04	2657.21	81.54	425.36	0.01
+23.03	629.45	117-722B-3H-6,30-32	5.300	0.504	64.930	1.490	12.94	3.15	2.10	4.19	2823.51	304.74	775.36	0.07
+23.81	644.17	117-722B-3H-6,110-112	5.300	0.010	68.195	1.250	14.32	3.61	0.45	0.91	4080.05	76.26	1853.68	0.01
+25.03	675.18	117-722B-3H-CC,0-6	2.553	-0.184	64.859	1.003	8.04	6.21	0.66	2.96	668.16	24.55	81.07	0.10
+26.06	716.32	117-722B-4H-1,110-112	2.467	0.115	58.050	0.705	7.83	1.23	0.30	3.35	354.47	28.81	48.79	0.08
+27.16	742.45	117-722B-4H-2,70-72	2.585	0.140	64.490	0.660	12.50	1.23	7.83	4.13	793.23	18.49	153.10	0.98
+27.98	774.17	117-722B-4H-3,2-4	2.585	-0.498	66.926	0.761	8.03	11.60	3.07	1.15	3218.02	174.23	1079.92	0.09
+29.47	815.25	117-722B-4H-4,0-4	4.000	-0.522	69.702	1.273	5.56	14.16	0.35	2.65	4182.92	172.56	994.73	0.01
+30.36	842.68	117-722B-4H-4,90-92	2.367	-0.930	77.400	1.210	8.64	28.89	1.15	2.07	4393.57	183.19	1473.81	0.03
+31.16	870.00	117-722B-4H-5,20-22	3.900	0.170	64.470	0.610	8.37	1.60	7.68	2.00	693.49	59.46	117.99	1.03
+31.56	880.18	117-722B-4H-5,60-62	5.500	0.220	55.440	1.980	8.93	3.73	1.81	3.01	2249.08	133.63	847.51	0.08
+32.16	891.09	117-722B-4H-5,120-122	5.500	0.040	55.960	0.660	6.49	1.36	4.75	5.65	843.30	153.02	57.86	0.49
+32.96	905.93	117-722B-4H-6,50-52	5.083	-0.470	69.470	1.840	8.86	17.36	5.71	2.04	7934.22	106.06	3080.52	0.07
+33.98	931.06	117-722B-4H-7,2-4	3.576	-0.175	61.236	0.712	4.98	6.21	6.60	1.99	1346.70	119.03	402.00	0.47
+34.70	950.50	117-722B-4H-CC,0-6	4.286	-0.546	59.255	0.399	4.94	29.33	5.94	2.31	2972.73	130.48	844.92	0.20
+35.16	961.21	117-722B-5H-1,60-62	4.786	-0.080	63.470		6.01	3.61	9.81	4.51	995.97	36.07	101.85	0.98
+35.56	969.57	117-722B-5H-1,100-102	4.786	-0.790	65.710	1.080	8.15	40.48	10.70	2.81	5707.56	242.90	1212.23	0.18
+35.96	978.44	117-722B-5H-1,140-142	4.067	-0.640	72.870	0.980	6.47	11.70	14.45	1.85	2061.82	45.03	602.25	0.69
+36.36	988.28	117-722B-5H-2,30-32	4.067	-0.380	66.040	1.130	3.04	28.95	6.18	2.59	2435.41	175.72	420.78	0.24
+36.76	998.12	117-722B-5H-2,70-72	4.067	-1.150	80.560	1.330	11.66	32.89	38.44	1.68	8923.00	1365.61	2391.27	0.38
+37.36	1011.67	117-722B-5H-2,130-132	4.800	-0.410	70.990		6.49	12.66	24.65	3.22	4258.13	224.18	705.63	0.57
+38.16	1036.13	117-722B-5H-3,60-62	2.480	-1.080	67.710	1.490	7.64	7.51	11.32	3.81	2522.26	616.24	516.67	0.40
+39.07	1059.04	117-722B-5H-4,0-4	2.538	-0.805	60.184	0.743	5.63	68.55	52.65	2.25	2840.61	94.28	361.81	1.82
+40.58	1116.73	117-722B-5H-5,2-4	3.429	-0.227	62.155	1.333	15.56	2.56	28.78	1.42	1305.11	178.73	333.53	2.02
+40.91	1132.63	117-722B-5H-5,35-37	1.548	-0.132	59.305	0.963	9.74	31.51	61.60	1.28	2443.21	160.51	291.68	2.41
+44.20	1234.94	117-722B-5H-CC,0-6	5.529	-0.812	73.641	1.005	8.76	20.63	214.35	7.70	5660.55	457.07	823.39	3.66
+45.19	1256.77	117-722B-6H-1,18-20	2.964	-0.337	60.378	1.037	10.38	13.89	137.51	3.48	3423.96	219.35	940.04	3.89
+47.21	1313.45	117-722B-6H-2,70-72	6.200	-0.860	74.980	0.860	10.94	19.60	459.58	17.20	8505.05	690.89	994.04	5.31
+48.43	1353.80	117-722B-6H-3,42-44	2.000	-1.394	76.692	0.553	10.24	28.95	144.68	2.74	2515.01	150.96	666.91	5.62
+49.81	1400.39	117-722B-6H-4,30-32	2.600	-0.900	71.040	1.230	15.61	22.63	472.46	19.06	2533.21	567.35	477.76	15.99
+51.61	1469.15	117-722B-6H-5,60-62	3.250	-0.540	50.220	1.080	5.61	35.17	205.45	7.38	6302.15	156.73	3256.66	3.23
+53.21	1538.64	117-722B-6H-6,70-72	2.200	-0.010	53.900	1.220	5.32	34.48	177.23	4.48	2337.10	221.90	283.08	7.31
+54.70	1614.66	117-722B-6H-CC,0-6	2.316	-0.386	59.748	1.208	4.93	33.94	107.51	1.60	1924.86	45.52	267.37	5.49

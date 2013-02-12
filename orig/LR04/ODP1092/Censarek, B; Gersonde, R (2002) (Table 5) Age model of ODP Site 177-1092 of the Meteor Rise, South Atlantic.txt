@@ -1,0 +1,115 @@
+Censarek, B; Gersonde, R (2002): (Table 5) Age model of ODP Site 177-1092 of the Meteor Rise, South AtlanticPANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Censarek, B; Gersonde, R (2002): (Table 5) Age model of ODP Site 
+      177-1092 of the Meteor Rise, South Atlantic, doi:10.1594/PANGAEA.79743,
+      In Supplement to: Censarek, Bernd; Gersonde, Rainer (2002): Miocene diatom 
+      biostratigraphy at ODP Site 689, 690, 1088, 1092 (Atlantic sector of the 
+      Southern Ocean), Marine Micropaleontology, 45(3-4), 309-356, 
+      doi:10.1016/S0377-8398(02)00034-8
+      Reference(s):Censarek, Bernd (2002): Thermal history of the Middle and 
+      Late Miocene Southern Ocean - Diatom Evidence (Die thermale Entwicklung 
+      des Südozeans im mittleren und oberen Miozän - eine Rekonstruktion anhand 
+      von Diatomeen), Reports on Polar and Marine Research, Alfred Wegener 
+      Institute for Polar and Marine Research, Bremerhaven, 430, 172 pp, 
+      hdl:10013/epic.10435.d001
+      Project(s):Ocean Drilling Program (ODP)
+      Coverage:West: 7.0790 * East: 7.0790 * South: -46.4110 * North: -46.4110
+      Date/Time Start: 1998-01-07T23:59:00 * Date/Time End: 1998-01-07T23:59:00
+      Minimum DEPTH, sediment: 64.3 m * Maximum DEPTH, sediment: 195.1 m
+      Event(s):177-1092 * Latitude: -46.4110 * Longitude: 7.0790 * Elevation: 
+      -1972.0 m * Date/Time: 1998-01-07T23:59:00 * Campaign: Leg177 * Basis: 
+      Joides Resolution * Device: Drilling
+      Comment:depth is given in mcd
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2Age modelAge modelkaGersonde, RainerAge model, biostratigraphy
+            3Age, commentAge commentGersonde, RainerAge model, biostratigraphy
+
+      Size:100 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      Age model [ka]3
+      Age comment
+      64.30>3800Hiatus
+      64.30<4450Hiatus
+      66.1244801/Top C3n.2n
+      68.46>4900Hiatus
+      68.46<5300Hiatus
+      71.5861372/Base C3An.1n
+      73.9762693/Top C3An.2n
+      75.3865504/FOD T. convexa var. aspinosa
+      75.4565675/Base C3An.2n
+      77.8869356/Top C3Bn
+      78.4870917/Base C3Bn
+      78.9571358/Top C3Br.1n
+      79.3371709/Base C3Br.1n
+      80.36730010/FOD H. triangularus
+      80.56734111/Top C3Br.2n
+      81.13737512/Base C3Br.2n
+      81.43743213/Top C4n.1n
+      82.68756214/Base C4n.1n
+      83.45765015/Top C4n.2n *
+      87.67795016/FOD F. reinholdii
+      89.16807217/Base C4n.2n
+      95.28869918/Top C4An *
+      104.31902519/Base C4An
+      105.32923020/Top C4Ar.1n
+      106.87930821/Base C4Ar.1n
+      112.73958022/Top C4Ar.2n
+      115.63964223/Base C4Ar.2n *
+      116.73974024/Top C5n.1n
+      121.58988025/Base C5n.1n
+      121.88992026/Top C5n.2n
+      143.821030027/FOD A. kennettii
+      156.691094928/Base C5n.2n **
+      159.901105229/Top C5r.1n
+      160.221109930/Base C5r.1n
+      163.001147631/Top C5r.2n
+      164.561153132/Base C5r.2n
+      170.951180033/LOD N. denticuloides
+      172.181193534/Top C5An.1n
+      173.031207835/Base C5An.1n
+      177.441240136/Top C5An.2n
+      178.83>12700Hiatus
+      178.83<13500Hiatus
+      182.481417837/TopC5ADn
+      183.081420038/FOD D. simonsenii
+      184.581435039/FOD A. ingens v. nodus
+      187.521461240/Base C5ADn
+      192.761620041/FOD A. ingens
+      194.071629342/Base C5Cn.1n
+      195.13>16700Hiatus
+      195.13?18000Hiatus
+
+Contact

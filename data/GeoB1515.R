@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'OtherMarineData', 'GeoB1515')
+currwd <- getwd()
+setwd(fpath)
+GeoB1515 <-read.delim("GeoB1515.txt",skip=1,header=FALSE,col.names=c("Corelabel","Depth.m","Compdepth.m","Age.ka","Cwd13C.permilPDB","Cwd18O.permilPDB"),sep="")
+setwd(currwd)

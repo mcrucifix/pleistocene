@@ -1,0 +1,206 @@
+Raymo, ME et al. (1992): (Table A1) Stable carbon and oxygen isotope ratios of Cibicidoides spp. from DSDP Hole 81-552A in the North AtlanticPANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Raymo, ME et al. (1992): (Table A1) Stable carbon and oxygen 
+      isotope ratios of Cibicidoides spp. from DSDP Hole 81-552A in the North 
+      Atlantic, doi:10.1594/PANGAEA.55484,
+      In Supplement to: Raymo, Maureen E; Hodell, David A; Jansen, Eystein 
+      (1992): Response of deep ocean circulation to initiation of Northern 
+      Hemisphere glaciation (3-2 MA), Paleoceanography, 7(5), 645-672, 
+      doi:10.1029/92PA01609
+      Project(s):Deep Sea Drilling Project (DSDP)
+      Coverage:West: -23.2313 * East: -23.2313 * South: 56.0427 * North: 56.0427
+      Date/Time Start: 1981-07-31T00:00:00 * Date/Time End: 1981-07-31T00:00:00
+      Minimum DEPTH, sediment: 37.8 m * Maximum DEPTH, sediment: 58.9 m
+      Event(s):81-552A * Latitude: 56.0427 * Longitude: -23.2313 * Elevation: 
+      -2301.0 m * Date/Time: 1981-07-31T00:00:00 * Recovery: 182.30 m * 
+      Penetration: 183.50 m * Location: North Atlantic/PLATEAU * Campaign: Leg81 
+      * Basis: Glomar Challenger * Device: Drilling * Comment: 38 cores; 183.5 m 
+      cored; 0 m drilled; 99.4 % recovery
+      Comment:Raw isotope record down to 46.96 from Curry and Miller (1989) data 
+      set: doi:10.1594/PANGAEA.696145. Above 46.96 m VG Micromass 602E, below 
+      46.96 m VG Isogas 903 mass spectrometer
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2Age modelAge modelkaRaymo, Maureen EAge model, paleomag, Berggren 
+            et al (1985)calculated ages
+            3Cibicidoides spp., d18OCibicidoides spp. d18Oper mil PDBRaymo, 
+            Maureen EMass spectrometeradjusted by 0.64 ‰ (Shackleton & Hall, 
+            1984, doi:10.2973/dsdp.proc.81.116.1984)
+            4Cibicidoides spp., d13CCibicidoides spp. d13Cper mil PDBRaymo, 
+            Maureen EMass spectrometer
+
+      Size:408 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      Age model [ka]3
+      Cibicidoides spp. d18O [per mil PDB]4
+      Cibicidoides spp. d13C [per mil PDB]
+      37.8220043.710.89
+      37.9120083.280.70
+      38.0420214.230.58
+      38.1620314.280.56
+      38.2420353.630.25
+      38.3720423.610.87
+      38.4820483.610.95
+      38.5120493.590.83
+      38.6120553.700.78
+      38.7120653.410.83
+      38.7920813.640.92
+      39.0621663.441.04
+      39.1421703.621.28
+      39.2421753.620.94
+      39.3521803.571.17
+      39.4621853.880.96
+      39.5621903.951.03
+      39.6721963.660.75
+      39.7422033.380.98
+      39.8722203.450.96
+      39.9522333.040.33
+      40.0622463.750.59
+      40.1722543.070.54
+      40.2622613.350.48
+      40.3522693.390.81
+      40.4622813.281.02
+      40.5722943.380.94
+      40.6523023.530.73
+      40.7523114.010.47
+      40.8523194.090.54
+      40.9523284.180.61
+      41.0823383.460.81
+      41.1423433.120.76
+      41.2523513.400.64
+      41.3423573.920.24
+      41.4623733.370.77
+      41.5523843.220.57
+      41.6423893.410.61
+      41.9424054.260.26
+      42.0624104.070.33
+      42.1624143.530.55
+      42.2624173.150.75
+      42.3624203.331.02
+      42.4424243.340.91
+      42.5624313.601.14
+      42.6524373.351.14
+      42.7624423.511.09
+      42.8524473.400.88
+      42.9524513.540.69
+      43.0524563.380.72
+      43.1424593.360.92
+      43.2724663.470.98
+      43.3524703.060.62
+      43.4424763.580.87
+      43.5624923.560.84
+      43.6625033.420.87
+      43.7625093.371.13
+      44.0626563.310.99
+      44.1526633.101.25
+      44.2626703.311.15
+      44.3526773.270.88
+      44.4526843.011.17
+      44.5726933.291.10
+      44.6426983.430.97
+      44.7527063.060.62
+      44.8527133.281.05
+      44.9427203.531.06
+      45.0627293.341.30
+      45.1427343.461.03
+      45.2527423.511.21
+      45.3527503.540.89
+      45.4527573.411.24
+      45.5527642.980.64
+      45.6527713.220.98
+      45.7527793.111.28
+      45.8527863.420.92
+      45.9327923.390.79
+      46.0528002.740.86
+      46.1528082.970.97
+      46.2528152.910.96
+      46.3528223.271.04
+      46.4528293.281.09
+      46.5528373.301.13
+      46.6528443.301.15
+      46.8728603.351.04
+      46.9628663.261.01
+      47.1028763.551.04
+      47.6029133.220.97
+      47.7029203.281.15
+      48.2029563.270.97
+      48.5029783.400.88
+      48.8029973.201.02
+      49.1030133.240.84
+      49.2030183.721.08
+      49.4030283.190.99
+      49.5030333.130.89
+      50.6030903.231.02
+      50.7030953.260.63
+      51.0031113.180.67
+      51.6031423.640.78
+      52.1031682.89-0.30
+      52.2031733.020.76
+      52.3031783.490.87
+      52.4031833.340.74
+      52.6031932.820.70
+      52.7031993.020.90
+      52.8032043.260.86
+      53.0032143.080.62
+      53.1032192.960.45
+      53.3032303.340.35
+      53.6032453.130.61
+      53.7032503.050.62
+      53.8032552.990.73
+      53.9032613.290.95
+      54.0032663.130.79
+      54.1032713.211.13
+      54.3032813.201.19
+      54.5032923.261.08
+      55.1033233.200.79
+      55.3033333.220.96
+      55.4033383.110.98
+      55.5033433.271.10
+      55.7033543.121.03
+      55.8033593.191.11
+      55.9033642.961.02
+      56.0033693.060.99
+      56.1033743.161.20
+      56.4033903.181.18
+      56.5033952.931.05
+      56.6034003.170.90
+      57.3034373.081.16
+      57.4034423.081.19
+      58.5034993.011.16
+      58.7035093.171.19
+      58.8035143.071.14
+      58.9035193.160.94
+
+Contact

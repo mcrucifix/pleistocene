@@ -1,0 +1,188 @@
+Wefer. G et al. (1999): Stable isotopes of sediment core GeoB1032PANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Wefer. Gerold; Kemle-von Mücke. Sylvia; Schmidt. Heike (1999): 
+      Stable isotopes of sediment core GeoB1032. dataset #54655 (DOI 
+      registration in progress)
+      Reference(s):Wefer. Gerold; Berger. Wolfgang H; Bickert. Torsten; Donner. 
+      Barbara; Fischer. Gerhard; Kemle-von Mücke. Sylvia; Pätzold. Jürgen; 
+      Meinecke. Gerrit; Müller. Peter J; Mulitza. Stefan; Niebler. Hans-Stefan; 
+      Schmidt. Heike; Schneider. Ralph; Segl. Monika (1996): Late Quaternary 
+      surface circulation of the South Atlantic: The stable isotope record and 
+      implications for heat transport and productivity. In: Wefer. G; Berger. W 
+      H; Siedler. G & Webb. D (eds.). The South Atlantic: Present and Past 
+      Circulation. Springer. Berlin. Heidelberg. 461-502
+      Project(s):Geosciences. University of Bremen (GeoB)
+      South Atlantic in Late Quaternary: Reconstruction of Budget and Currents 
+      (SFB261)
+      Coverage:West: 6.0267 * East: 6.0367 * South: -22.9150 * North: -22.9133
+      Minimum DEPTH. sediment: 0.0 m * Maximum DEPTH. sediment: 3.8 m
+      Event(s):GeoB1032-2 * Latitude: -22.9133 * Longitude: 6.0267 * Elevation: 
+      -2490.0 m * Date/Time: 1988-03-04T00:00:00 * Penetration: 0.32 m * 
+      Location: Walvis Ridge * Campaign: M6/6 * Basis: Meteor (1986) * Device: 
+      Giant box corer * Comment: Foram.-schl.. weiß. Pterop.
+      GeoB1032-3 * Latitude: -22.9150 * Longitude: 6.0367 * Elevation: -2505.0 m 
+      * Date/Time: 1988-03-04T00:00:00 * Penetration: 12.00 m * Location: Angola 
+      Basin * Campaign: M6/6 * Basis: Meteor (1986) * Device: Gravity corer 
+      (Kiel type) * Comment: Foram.-schlamm. sandig
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1Event labelEventMetadata
+            2DEPTH. sedimentDepthmGeocode
+            3Globigerinoides ruber white. d13CG. ruber w d13Cper mil PDBSchmidt. 
+            HeikeMass spectrometer Finnigan MAT 251
+            4Globigerinoides ruber white. d18OG. ruber w d18Oper mil PDBSchmidt. 
+            HeikeMass spectrometer Finnigan MAT 251
+            5Globorotalia inflata. d13CG. inflata d13Cper mil PDBSchmidt. 
+            HeikeMass spectrometer Finnigan MAT 251
+            6Globorotalia inflata. d18OG. inflata d18Oper mil PDBSchmidt. 
+            HeikeMass spectrometer Finnigan MAT 251
+            7Globorotalia truncatulinoides sinistralis. d13CG. truncatulinoides 
+            s d13Cper mil PDBKemle-von Mücke. SylviaMass spectrometer Finnigan 
+            MAT 251size fraction 150-212 µm
+            8Globorotalia truncatulinoides sinistralis. d13CG. truncatulinoides 
+            s d13Cper mil PDBKemle-von Mücke. SylviaMass spectrometer Finnigan 
+            MAT 251size fraction 212-355 µm
+            9Globorotalia truncatulinoides sinistralis. d13CG. truncatulinoides 
+            s d13Cper mil PDBKemle-von Mücke. SylviaMass spectrometer Finnigan 
+            MAT 251size fraction 425-500 µm
+            10Globorotalia truncatulinoides sinistralis. d18OG. truncatulinoides 
+            s d18Oper mil PDBKemle-von Mücke. SylviaMass spectrometer Finnigan 
+            MAT 251size fraction 150-212 µm
+            11Globorotalia truncatulinoides sinistralis. d18OG. truncatulinoides 
+            s d18Oper mil PDBKemle-von Mücke. SylviaMass spectrometer Finnigan 
+            MAT 251size fraction 212-355 µm
+            12Globorotalia truncatulinoides sinistralis. d18OG. truncatulinoides 
+            s d18Oper mil PDBKemle-von Mücke. SylviaMass spectrometer Finnigan 
+            MAT 251size fraction 425-500 µm
+
+      Size:780 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible. United States IBM850: MS-DOS compatible. 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Event2
+      Depth [m]3
+      G. ruber w d13C [per mil PDB]4
+      G. ruber w d18O [per mil PDB]5
+      G. inflata d13C [per mil PDB]6
+      G. inflata d18O [per mil PDB]7
+      G. truncatulinoides s d13C [per mil PDB]
+      (size fraction 150-212 µm)8
+      G. truncatulinoides s d13C [per mil PDB]
+      (size fraction 212-355 µm)9
+      G. truncatulinoides s d13C [per mil PDB]
+      (size fraction 425-500 µm)10
+      G. truncatulinoides s d18O [per mil PDB]
+      (size fraction 150-212 µm)11
+      G. truncatulinoides s d18O [per mil PDB]
+      (size fraction 212-355 µm)12
+      G. truncatulinoides s d18O [per mil PDB]
+      (size fraction 425-500 µm)
+      GeoB1032-20.011.21-0.630.670.430.300.580.79-0.080.221.19
+      GeoB1032-20.041.30-0.650.940.020.530.610.860.310.601.41
+      GeoB1032-20.071.46-0.800.990.030.190.521.25-0.090.330.92
+      GeoB1032-20.081.27-0.670.830.360.080.591.02-0.320.631.14
+      GeoB1032-20.101.28-0.720.810.28
+      GeoB1032-30.131.34-0.630.810.49-0.020.541.28-0.100.960.07
+      GeoB1032-30.181.02-0.370.440.48-0.060.36-0.060.231.090.03
+      GeoB1032-30.230.700.040.321.36-0.350.100.070.841.341.04
+      GeoB1032-30.280.660.470.111.20-0.32-0.100.651.581.622.10
+      GeoB1032-30.330.700.890.401.67-0.390.260.991.601.701.60
+      GeoB1032-30.380.580.960.221.15-0.010.480.911.541.921.87
+      GeoB1032-30.430.820.610.341.01-0.390.411.121.791.972.07
+      GeoB1032-30.480.800.570.651.26-0.270.231.090.841.281.80
+      GeoB1032-30.530.670.440.341.15-0.580.151.051.061.291.84
+      GeoB1032-30.580.690.270.231.40-0.450.261.060.791.581.96
+      GeoB1032-30.630.820.090.471.09-0.660.671.250.791.802.12
+      GeoB1032-30.680.590.200.441.22-0.590.510.970.581.561.71
+      GeoB1032-30.730.830.270.401.03-0.600.440.690.591.811.87
+      GeoB1032-30.780.380.310.331.46-0.720.510.940.781.752.09
+      GeoB1032-30.830.750.690.371.45-0.600.580.720.911.971.85
+      GeoB1032-30.881.020.500.421.20-0.590.391.070.971.421.99
+      GeoB1032-30.930.820.320.680.530.380.571.120.851.301.82
+      GeoB1032-30.980.97-0.160.740.60-0.170.820.970.741.411.40
+      GeoB1032-31.031.020.100.700.38-0.100.871.080.550.891.36
+      GeoB1032-31.080.81-0.190.820.65-0.070.560.910.581.271.28
+      GeoB1032-31.131.000.110.460.86-0.310.670.680.611.351.63
+      GeoB1032-31.180.75-0.060.790.81-0.260.600.700.691.081.11
+      GeoB1032-31.230.92-0.041.020.78-0.170.790.840.771.010.92
+      GeoB1032-31.281.03-0.190.810.660.040.550.960.531.071.36
+      GeoB1032-31.330.82-0.230.820.810.080.650.790.691.091.59
+      GeoB1032-31.380.81-0.270.900.99-0.230.240.860.560.721.01
+      GeoB1032-31.430.78-0.190.600.67-0.330.350.910.370.731.20
+      GeoB1032-31.480.97-0.080.651.03-0.340.221.030.510.761.18
+      GeoB1032-31.530.68-0.160.590.78-0.320.240.790.480.801.15
+      GeoB1032-31.580.52-0.420.350.56-0.050.430.800.680.971.15
+      GeoB1032-31.630.670.110.430.53-0.150.580.900.650.951.14
+      GeoB1032-31.680.73-0.330.670.71-0.020.300.820.521.031.08
+      GeoB1032-31.730.98-0.410.450.480.100.390.550.350.560.08
+      GeoB1032-31.780.78-0.420.380.18-0.140.270.570.230.480.11
+      GeoB1032-31.830.54-0.620.300.25-0.210.490.790.020.540.83
+      GeoB1032-31.880.58-0.190.480.87-0.220.400.410.891.740.50
+      GeoB1032-31.930.28-0.230.421.42-0.390.090.220.911.630.59
+      GeoB1032-31.980.400.48-0.031.49-1.140.430.571.332.390.32
+      GeoB1032-32.030.420.740.321.46-0.600.390.651.562.531.89
+      GeoB1032-32.080.190.670.271.72-0.440.230.311.622.401.70
+      GeoB1032-32.130.050.630.381.76-0.550.320.461.501.881.89
+      GeoB1032-32.18-0.030.600.421.66-0.49-0.130.681.141.902.29
+      GeoB1032-32.230.110.590.341.43-0.770.360.721.232.191.82
+      GeoB1032-32.280.080.380.371.23-0.610.210.531.161.951.75
+      GeoB1032-32.330.400.550.571.25-0.670.310.440.952.161.70
+      GeoB1032-32.380.470.550.351.35-0.540.290.511.142.161.63
+      GeoB1032-32.430.340.430.351.27-0.390.020.151.191.051.24
+      GeoB1032-32.480.360.460.361.29-0.480.380.271.191.591.33
+      GeoB1032-32.530.450.390.251.20-0.190.350.570.871.441.27
+      GeoB1032-32.580.790.050.601.08-0.100.290.580.681.060.86
+      GeoB1032-32.630.530.000.761.010.030.320.630.520.590.91
+      GeoB1032-32.680.67-0.210.630.360.170.390.880.660.671.08
+      GeoB1032-32.730.860.240.710.740.070.450.770.540.890.76
+      GeoB1032-32.780.82-0.280.680.670.300.460.860.670.861.48
+      GeoB1032-32.830.91-0.080.670.360.310.700.490.750.900.92
+      GeoB1032-32.880.81-0.210.660.670.460.460.420.230.420.93
+      GeoB1032-32.930.37-0.020.510.980.880.900.570.220.571.78
+      GeoB1032-32.980.450.320.231.080.861.330.560.230.561.43
+      GeoB1032-33.030.780.220.731.290.871.180.750.370.751.86
+      GeoB1032-33.080.710.330.631.061.221.351.000.571.001.99
+      GeoB1032-33.130.720.020.760.670.540.750.570.400.571.03
+      GeoB1032-33.180.83-0.030.790.920.200.610.340.300.341.54
+      GeoB1032-33.230.76-0.320.701.070.560.590.680.310.681.22
+      GeoB1032-33.280.340.040.401.421.411.220.390.110.391.10
+      GeoB1032-33.330.310.120.321.151.821.480.280.050.281.19
+      GeoB1032-33.380.250.490.581.841.031.49-0.050.35-0.051.50
+      GeoB1032-33.430.330.660.672.151.411.410.480.050.480.51
+      GeoB1032-33.480.120.350.561.911.231.550.080.180.081.24
+      GeoB1032-33.530.290.480.381.641.231.300.28-0.020.281.45
+      GeoB1032-33.58-0.040.520.241.481.361.280.34-0.040.341.62
+      GeoB1032-33.630.530.890.732.061.631.580.330.590.331.14
+      GeoB1032-33.680.700.691.101.331.131.321.020.671.021.20
+      GeoB1032-33.730.740.531.091.041.181.330.780.820.781.07
+      GeoB1032-33.780.53-0.061.031.000.971.03
+
+Contact

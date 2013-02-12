@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'LR04', 'ODP1148')
+currwd <- getwd()
+setwd(fpath)
+ODP1148 <-read.delim("ODP1148.txt",skip=1,header=FALSE,col.names=c("Age.ma","Pelagicforamsd13C","Pelagicforamsd18O","Age.Ma","Benthicforamsd13C","Benthicforamsd18O"),sep="") 
+setwd(currwd)

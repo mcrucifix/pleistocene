@@ -1,0 +1,93 @@
+Bartoli, G et al. (2006): Stable isotope analysis of benthic foraminifera and sedimentology on Site 162-984PANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data DescriptionRIS BibTeX
+      Citation:Bartoli, G et al. (2006): Stable isotope analysis of benthic 
+      foraminifera and sedimentology on Site 162-984, 
+doi:10.1594/PANGAEA.484066,
+      Supplement to: Bartoli, Gretta; Sarnthein, Michael; Weinelt, Mara (2006): 
+      Late Pliocene millennial-scale climate variability in the northern North 
+      Atlantic prior to and after the onset of Northern Hemisphere glaciation, 
+      Paleoceanography, 21, PA4205, doi:10.1029/2005PA001185
+      Abstract:Sediments recovered at ODP Site 984 on the Reykjanes Ridge 
+      provided multicentennial-scale records (SST, planktic and benthic ?18O, 
+      IRD and magnetic susceptibility) of Late Pliocene climate change over the 
+      onset of Northern Hemisphere glaciation (NHG), 2.95-2.82 Ma. Short-term 
+      climate variations prior and after the onset of continent-wide glaciation 
+      were compared to test the hypothesis, whether Dansgaard-Oeschger (DO) 
+      cycles may have been triggered by continental ice breakouts. By means of 
+      spectral analyses for two selected interglacial stages prior to and after 
+      NHG (G15 and G1), we found that climate variability resembled that of the 
+      Holocene and the mid-Pliocene warm period. In contrast, DO-like 
+      periodicities near 1470, 2900, and 4400 yr indeed only occurred in glacial 
+      stages after the onset of NHG (G14, G6, and 104), but hardly in stage G20 
+      prior to the onset. These results suggest a causal link between DO cycles 
+      and the Late Pliocene onset of major NHG and ice breakouts in the North 
+      Atlantic. This data set provides all primary data and spectral analysis 
+      related to this scientific work.
+      Project(s):Ocean Drilling Program (ODP)
+      Impact of Gateways on Ocean Circulation, Climate, and Evolution 
+      (OceanGateways)
+      Coverage:West: -24.0825 * East: -24.0824 * South: 61.4253 * North: 61.4253
+      Minimum Age: 2494.800 ka BP * Maximum Age: 3051.930 ka BP
+      Date/Time Start: 1995-07-24T00:00:00 * Date/Time End: 1995-07-29T00:00:00
+      Event(s):162-984 * Latitude: 61.4253 * Longitude: -24.0824 * Elevation: 
+      -1648.5 m * Date/Time: 1995-07-24T00:00:00 * Date/Time 2: 
+      1995-07-29T00:00:00 * Recovery: 1049.60 m * Penetration: 1240.90 m * 
+      Campaign: Leg162 * Basis: Joides Resolution * Device: Composite Core * 
+      Comment: 115 cores; 1083.1 m cored; 0 m drilled; 96.9% recovery
+      162-984B * Latitude: 61.4253 * Longitude: -24.0825 * Elevation: -1648.0 m 
+      * Date/Time: 1995-07-25T02:46:00 * Date/Time 2: 1995-07-28T08:20:00 * 
+      Recovery: 458.30 m * Penetration: 503.70 m * Campaign: Leg162 * Basis: 
+      Joides Resolution * Device: Drilling * Comment: 53 cores; 503.7 m cored; 0 
+      m drilled; 91 % recovery
+      Comment:The results of the spectral analysis are stored as individual 
+      files at doi:10.1594/PANGAEA.477959
+      Size:8 datasets
+Download Data
+Download ZIP file containing all datasets as tab-delimited text (use the 
+following character encoding:   ISO-8859-1: ISO Western (PANGAEA default) 
+    UTF-8: Unicode (preferred for newer applications) windows-1252: Windows 
+    Western x-MacRoman: Macintosh Roman IBM437: MS-DOS compatible, United States 
+    IBM850: MS-DOS compatible, Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 
+    GB2312 GBK IBM-Thai IBM00858 IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 
+    IBM01145 IBM01146 IBM01147 IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 
+    IBM277 IBM278 IBM280 IBM284 IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 
+    IBM855 IBM857 IBM860 IBM861 IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 
+    IBM870 IBM871 IBM918 ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 
+    ISO-8859-2 ISO-8859-3 ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 
+    ISO-8859-9 JIS_X0201 JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 
+    UTF-16BE UTF-16LE windows-1250 windows-1251 windows-1253 windows-1254 
+    windows-1255 windows-1256 windows-1257 windows-1258 windows-31j 
+    x-Big5-Solaris x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 
+    x-IBM1046 x-IBM1097 x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 
+    x-IBM1381 x-IBM1383 x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 
+    x-IBM921 x-IBM922 x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 
+    x-IBM942C x-IBM943 x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 
+    x-IBM970 x-ISCII91 x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 
+    x-JIS0208 x-Johab x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic 
+    x-MacDingbat x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol 
+    x-MacThai x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK 
+    x-windows-50220 x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+Datasets listed in this Collection
+  Bartoli, G; Sarnthein, M; Weinelt, M (2006): Age model of the late Pliocene 
+  part of Site 162-984, doi:10.1594/PANGAEA.441745
+  Bartoli, G; Sarnthein, M; Weinelt, M (2005): Ice rafted debris (>150 µm) 
+  distribution of Site 162-984B, doi:10.1594/PANGAEA.315625
+  Bartoli, G; Sarnthein, M; Weinelt, M (2006): Magnetic susceptibility versus 
+  age from Hole 162-984B, doi:10.1594/PANGAEA.477963
+  Bartoli, G; Sarnthein, M; Weinelt, M (2006): Stable carbon isotopes measured 
+  on Globigerina bulloides from Hole 162-984B, doi:10.1594/PANGAEA.476004
+  Bartoli, G; Sarnthein, M; Weinelt, M (2006): Stable carbon isotopes measured 
+  on Neogloboquadrina atlantica from Hole 162-984B, doi:10.1594/PANGAEA.476002
+  Bartoli, G; Sarnthein, M; Weinelt, M (2005): Stable istotopes (G. bulloides) 
+  and sea surface temperatures of Site 162-984B, doi:10.1594/PANGAEA.315621
+  Bartoli, G; Sarnthein, M; Weinelt, M (2005): Stable istotopes (N. atlantica) 
+  and sea surface temperature of Site 162-984B, doi:10.1594/PANGAEA.315623
+  Bartoli, G; Sarnthein, M; Weinelt, M (2005): Stable istotopes of benthic 
+  foraminifera of Site 162-984B, doi:10.1594/PANGAEA.315622
+Contact

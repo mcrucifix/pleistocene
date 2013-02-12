@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'LR04', 'ODP1146')
+currwd <- getwd()
+setwd(fpath)
+ODP1146 <-read.fwf("ODP1146.txt",skip=5684,nrows=2516,header=FALSE,col.names=c("Coresection","Sectiondepth.cm","Sitedepth.MBSF","Sitedepth.MCD","Sitedepth.RMCD","Age.ka","Species","d13C.VPDB","d18O.VPDB"),widths=c(8,10,11,11,11,11,23,12,11)) 
+setwd(currwd)

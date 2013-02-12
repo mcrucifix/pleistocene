@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'LR04', 'DSDP607')
+currwd <- getwd()
+setwd(fpath)
+DSDP607 <-read.delim("DSDP607.tab",skip=19,header=FALSE,col.names=c("Depth.m","Age.ka","Label", "Cibicidoidessppd18O.permilPDB","Cibicidoidessppd13C.permilPDB","Uvigerinasppd18O. permilPDB","Uvigerinasppd13C.permilPDB"),sep="")
+setwd(currwd)

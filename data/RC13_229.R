@@ -1,0 +1,5 @@
+fpath <- file.path('..', 'orig', 'LR04', 'RC13_229')
+currwd <- getwd()
+setwd(fpath)
+RC13_229 <-read.table("RC13_229.txt",skip=39,header=FALSE,col.names=c("Depth.cm","Age.yrs","d13Cforamsb.PDB","d18Oforamsb.PDB"),sep="")
+setwd(currwd)

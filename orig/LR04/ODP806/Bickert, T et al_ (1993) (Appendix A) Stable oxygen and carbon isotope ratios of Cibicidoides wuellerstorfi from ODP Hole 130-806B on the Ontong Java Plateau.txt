@@ -1,0 +1,198 @@
+Bickert, T et al. (1993): (Appendix A) Stable oxygen and carbon isotope ratios of Cibicidoides wuellerstorfi from ODP Hole 130-806B on the Ontong Java PlateauPANGAEA®
+      Publishing Network for Geoscientific & Environmental DataYou are not 
+      logged in (LOG IN)
+
+      Always quote citation when using data!
+
+      Data Description
+      Citation:Bickert, T et al. (1993): (Appendix A) Stable oxygen and carbon 
+      isotope ratios of Cibicidoides wuellerstorfi from ODP Hole 130-806B on the 
+      Ontong Java Plateau, doi:10.1594/PANGAEA.696408,
+      In Supplement to: Bickert, Torsten; Berger, Wolfgang H; Burke, S; Schmidt, 
+      Heike; Wefer, Gerold (1993): Late Quaternary stable isotope record of 
+      benthic foraminifers: Site 805 and 806, Ontong Java Plateau, In: Berger, 
+      WH; Kroenke, LW; Mayer, LA, et al. (eds.), Proceedings of the Ocean 
+      Drilling Program, Scientific Results, College Station, TX (Ocean Drilling 
+      Program), 130, 411-420, doi:10.2973/odp.proc.sr.130.025.1993
+      Project(s):Ocean Drilling Program (ODP)
+      Coverage:West: 159.3610 * East: 159.3610 * South: 0.3185 * North: 0.3185
+      Minimum DEPTH, sediment: 0.1 m * Maximum DEPTH, sediment: 14.0 m
+      Event(s):130-806B * Latitude: 0.3185 * Longitude: 159.3610 * Elevation: 
+      -2519.9 m * Date/Time: 1990-02-18T21:00:00 * Date/Time 2: 
+      1990-02-23T01:30:00 * Recovery: 666.40 m * Penetration: 743.10 m * 
+      Campaign: Leg130 * Basis: Joides Resolution * Device: Drilling * Comment: 
+      78 cores; 743.1 m cored; 0 m drilled; 89.7 % recovery
+      Parameter(s):#NameShort NameUnitPrincipal InvestigatorMethodComment
+            1DEPTH, sedimentDepthmGeocode
+            2Cibicidoides wuellerstorfi, d18OC. wuellerstorfi d18Oper mil 
+            PDBBickert, TorstenMass spectrometer Finnigan MAT 251size fraction 
+            >250 µm
+            3Cibicidoides wuellerstorfi, d13CC. wuellerstorfi d13Cper mil 
+            PDBBickert, TorstenMass spectrometer Finnigan MAT 251size fraction 
+            >250 µm
+
+      Size:264 data points
+Data
+Download dataset as tab-delimited text (use the following character encoding:  
+     ISO-8859-1: ISO Western (PANGAEA default) UTF-8: Unicode (preferred for 
+    newer applications) windows-1252: Windows Western x-MacRoman: Macintosh 
+    Roman IBM437: MS-DOS compatible, United States IBM850: MS-DOS compatible, 
+    Western   Big5 Big5-HKSCS EUC-JP EUC-KR GB18030 GB2312 GBK IBM-Thai IBM00858 
+    IBM01140 IBM01141 IBM01142 IBM01143 IBM01144 IBM01145 IBM01146 IBM01147 
+    IBM01148 IBM01149 IBM037 IBM1026 IBM1047 IBM273 IBM277 IBM278 IBM280 IBM284 
+    IBM285 IBM297 IBM420 IBM424 IBM500 IBM775 IBM852 IBM855 IBM857 IBM860 IBM861 
+    IBM862 IBM863 IBM864 IBM865 IBM866 IBM868 IBM869 IBM870 IBM871 IBM918 
+    ISO-2022-JP ISO-2022-KR ISO-8859-13 ISO-8859-15 ISO-8859-2 ISO-8859-3 
+    ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 JIS_X0201 
+    JIS_X0212-1990 KOI8-R Shift_JIS TIS-620 US-ASCII UTF-16 UTF-16BE UTF-16LE 
+    windows-1250 windows-1251 windows-1253 windows-1254 windows-1255 
+    windows-1256 windows-1257 windows-1258 windows-31j x-Big5-Solaris 
+    x-euc-jp-linux x-EUC-TW x-eucJP-Open x-IBM1006 x-IBM1025 x-IBM1046 x-IBM1097 
+    x-IBM1098 x-IBM1112 x-IBM1122 x-IBM1123 x-IBM1124 x-IBM1381 x-IBM1383 
+    x-IBM33722 x-IBM737 x-IBM834 x-IBM856 x-IBM874 x-IBM875 x-IBM921 x-IBM922 
+    x-IBM930 x-IBM933 x-IBM935 x-IBM937 x-IBM939 x-IBM942 x-IBM942C x-IBM943 
+    x-IBM943C x-IBM948 x-IBM949 x-IBM949C x-IBM950 x-IBM964 x-IBM970 x-ISCII91 
+    x-ISO-2022-CN-CNS x-ISO-2022-CN-GB x-iso-8859-11 x-JIS0208 x-Johab 
+    x-MacArabic x-MacCentralEurope x-MacCroatian x-MacCyrillic x-MacDingbat 
+    x-MacGreek x-MacHebrew x-MacIceland x-MacRomania x-MacSymbol x-MacThai 
+    x-MacTurkish x-MacUkraine x-MS950-HKSCS x-mswin-936 x-PCK x-windows-50220 
+    x-windows-50221 x-windows-874 x-windows-949 x-windows-950 
+    x-windows-iso2022jp )
+      1
+      Depth [m]2
+      C. wuellerstorfi d18O [per mil PDB]3
+      C. wuellerstorfi d13C [per mil PDB]
+      0.092.330.27
+      0.192.470.27
+      0.293.01-0.04
+      0.393.68-0.13
+      0.494.06-0.13
+      0.593.78-0.18
+      0.693.82-0.16
+      0.793.640.05
+      0.893.54-0.12
+      0.993.56-0.12
+      1.093.630.07
+      1.193.29-0.19
+      1.293.21-0.21
+      1.393.55-0.23
+      1.483.55-0.17
+      1.593.32-0.02
+      1.692.870.08
+      1.793.05-0.01
+      1.893.230.06
+      1.992.970.03
+      2.092.780.04
+      2.193.10-0.02
+      2.292.83-0.06
+      2.393.17-0.16
+      2.492.810.00
+      2.582.08-0.14
+      2.693.76-0.30
+      2.793.86-0.34
+      2.893.91-0.33
+      2.983.65-0.45
+      3.093.66-0.47
+      3.193.42-0.41
+      3.293.69-0.48
+      3.393.55-0.44
+      3.493.39-0.39
+      3.593.47-0.54
+      3.693.50-0.32
+      3.793.30-0.38
+      3.892.79-0.15
+      3.992.79-0.01
+      4.082.750.02
+      4.142.560.03
+      4.593.32-0.51
+      4.693.51-0.35
+      4.793.50-0.14
+      4.892.71-0.05
+      4.992.780.00
+      5.092.54-0.12
+      5.193.38-0.57
+      5.293.73-0.32
+      5.393.67-0.31
+      5.493.56-0.32
+      5.583.61-0.42
+      5.683.52-0.62
+      5.793.65-0.52
+      5.893.28-0.19
+      5.982.97-0.10
+      6.092.94-0.25
+      6.192.83-0.31
+      6.293.40-0.25
+      6.592.96-0.18
+      6.692.410.01
+      6.792.67-0.18
+      6.993.00-0.15
+      7.093.50-0.46
+      7.193.69-0.51
+      7.293.59-0.49
+      7.393.47-0.49
+      7.493.24-0.30
+      7.593.43-0.40
+      7.693.39-0.26
+      7.793.39-0.19
+      7.893.28-0.03
+      7.982.84-0.21
+      8.092.90-0.01
+      8.192.600.30
+      8.292.500.33
+      8.392.460.26
+      8.492.390.25
+      8.692.98-0.09
+      8.793.09-0.17
+      8.894.01-0.33
+      8.994.03-0.33
+      9.093.93-0.34
+      9.193.63-0.24
+      9.293.79-0.40
+      9.393.61-0.46
+      9.483.47-0.25
+      9.593.51-0.23
+      9.693.56-0.23
+      9.793.97-0.14
+      9.893.50-0.18
+      9.993.380.11
+      10.092.990.27
+      10.192.640.31
+      10.292.930.20
+      10.393.000.11
+      10.493.110.25
+      10.593.010.14
+      10.693.340.27
+      10.793.250.26
+      10.893.110.34
+      10.983.060.18
+      11.093.28-0.08
+      11.193.13-0.07
+      11.293.69-0.36
+      11.393.55-0.33
+      11.493.65-0.35
+      11.593.42-0.24
+      11.693.35-0.25
+      11.793.19-0.12
+      11.892.96-0.09
+      11.992.940.10
+      12.082.950.12
+      12.192.47-0.01
+      12.292.68-0.18
+      12.393.16-0.16
+      12.593.49-0.25
+      12.693.34-0.01
+      12.793.030.02
+      12.892.96-0.02
+      12.993.21-0.07
+      13.092.850.09
+      13.193.09-0.09
+      13.292.980.07
+      13.392.61-0.03
+      13.493.78-0.29
+      13.584.19-0.37
+      13.693.64-0.29
+      13.794.14-0.29
+      13.893.92-0.58
+      13.983.72-0.46
+
+Contact

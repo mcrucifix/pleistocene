@@ -1,0 +1,21 @@
+/* DATA DESCRIPTION:
+Citation:	Gibbs, S et al. (2005): (Appendix B) Age model tie point of ODP Hole 108-662A in the central Atlantic Ocean, doi:10.1594/PANGAEA.694068,
+	In Supplement to: Gibbs, Samantha; Young, Jeremy; Bralower, Timothy J; Shackleton, Nicholas J (2007): Nannofossil evolutionary events in the mid-Pliocene: an assessment of the degree of synchrony in the extinctions of Reticulofenestra pseudoumbilicus and Sphenolithus abies, Palaeogeography, Palaeoclimatology, Palaeoecology, 217(1-2), 155-172, doi:10.1016/j.palaeo.2004.11.005
+Project(s):	Ocean Drilling Program (ODP) (URI: http://odp.pangaea.de/)
+Coverage:	WEST: -11.7392 * EAST: -11.7392 * SOUTH: -1.3902 * NORTH: -1.3902
+	MINIMUM DEPTH, sediment: 181.9 m * MAXIMUM DEPTH, sediment: 198.2 m
+Event(s):	108-662A * LATITUDE: -1.3902 * LONGITUDE: -11.7392 * ELEVATION: -3824.0 m * DATE/TIME: 1986-03-24T03:00:00 * DATE/TIME 2: 1986-03-25T07:45:00 * RECOVERY: 203.90 m * PENETRATION: 200.00 m * LOCATION: South Atlantic * CAMPAIGN: Leg108 (URI: doi:10.2973/odp.proc.ir.108.1988) * BASIS: Joides Resolution (URI: http://odp.pangaea.de/resolutn.html) * DEVICE: Drilling * COMMENT: 22 cores; 200 m cored; 0 m drilled; 101.9 % recovery
+Parameter(s):	DEPTH, sediment [m] (Depth) * Geocode
+	Age model [ka] (Age model) * PI: Gibbs, Samantha
+Size:	9 data points
+*/
+Depth [m]	Age model [ka]
+181.93	3418
+185.25	3546
+188.13	3637
+192.35	3756
+194.35	3831
+195.35	3874
+196.85	3923
+197.75	3947
+198.15	3957
