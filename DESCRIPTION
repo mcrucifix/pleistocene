@@ -1,8 +1,8 @@
 Package: pleistocene
-Version: 0.9
+Version: 0.91
 Date: 2012-04-17
 Title: Datasets of glacial cycles (ice and ocean)
-Author: Michel Crucifix, Maxime Boreaux and Jonathan Rougier
+Author: Michel Crucifix, Maxime Boreux and Jonathan Rougier
 Maintainer: Michel Crucifix <michel.crucifix@uclouvain.be>
 Depends: stats
 Description: Datasets for modelling glacial cycles
